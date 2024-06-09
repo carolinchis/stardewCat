@@ -1,0 +1,42 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "504": "Sneakers/Em van una mica fluixes... però estan a la moda!/50/1/0/0/Sabatilles",
+        "505": "Rubber Boots/Protecció de la natura./50/0/1/1/Botes de goma",
+        "506": "Leather Boots/El vuir és molt flexible./50/1/1/2/Botes de cuir",
+        "507": "Work Boots/Amb puntes d'acer per protecció addicional./50/2/0/3/Botes de feina",
+        "508": "Combat Boots/Reforçades amb una malla de ferro./150/3/0/4/Botes de combat",
+        "509": "Tundra Boots/El revestiment de llana manté els turmells ben calents./150/2/1/5/Botes de tundra",
+        "510": "Thermal Boots/Dissenyades per a resistir temperatures extremes./50/1/2/6/Botes tèrmiques",
+        "511": "Dark Boots/Fetes amb un cuir fosc i gruixut./250/4/2/7/Botes de la foscor",
+        "512": "Firewalker Boots/Diuen que aquestes botes poden resistir el magma més calent./250/3/3/8/Botes passafocs",
+        "513": "Genie Shoes/Una energia curiosa travessa tot el teixit./250/1/6/9/Botes del geni",
+        "514": "Space Boots/Un teixit d'iridi proporciona aquesta brillantor porpra./450/4/4/10/Botes espacials",
+        "515": "Cowboy Boots/Típiques de l'oest./250/2/2/11/Botes de cowboy",
+        "804": "Emily's Magic Boots/Fetes amb amor per l'Emily. 100% reciclables!/250/4/4/13/Botes màgiques de l'Emily",
+        "806": "Leprechaun Shoes/Les sivelles estan fetes d'or pur./250/2/1/14/Botes de leprechaun",
+        "853": "Cinderclown Shoes/Aquestes sabates màgiques eren d'un famós bufó amb nanisme./1000/6/5/15/Sabates del pallasso de cendra",
+        "854": "Mermaid Boots/Les escates de sirena proporcionen una aura de protecció a aquestes botes./1000/5/8/16/Botes de sirena",
+        "855": "Dragonscale Boots/Aquestes botes lluents són extremadament resistents./1000/7/0/17/Botes d'escates de drac",
+        "878": "Crystal Shoes/Aquestes sabates tan cridaneres mantindran els teus peus ben segurs./1000/3/5/18/Sabates de vidre"
+    }
+}

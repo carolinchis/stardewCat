@@ -1,0 +1,29 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Fri.000": "Per fi... Una mica de temps per mi.",
+        "Sun.000": "Van ser els antics propietaris els que van construir l'altar. Nosaltres no som religiosos, però deixem que la gent del poble el faci servir si volen.",
+        "fall_25.002": "Dispensi, he de parlar amb el Doctor Harvey en privat...$u",
+        "Tue.000": "Hmm... Hauria de portar alguna cosa especial per a la reunió d'aeròbic d'avui?",
+        "Tue.001": "Estàs en forma, Jodi! Et va bé fer peses, oi?",
+        "fall_25.000": "Avui és la meva examinació anual. Almenys no he d'anar gaire lluny.",
+        "fall_25.001": "També ets aquí per veure el doctor? Que t'ha passat?",
+        "Tue.002": "Mmff... Crec que m'he guanyat unes quantes galetes per avui.I think I've earned some cookies today. *nyam-nyam*.",
+        "winter_16.000": "Vaig a fer la compra de totes les festes aquesta nit! Avisa'm si veus en Pierre..."
+    }
+}

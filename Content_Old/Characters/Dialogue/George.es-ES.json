@@ -1,0 +1,45 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Hmmf... Molesta una mica haver de conèixer tanta gent nova, eh?#$b#Per cert, em dic George. I ara vés-te'n... Hmmf.",
+        "accept_867": "Què és això?#$b#Hmmf... O sigui que primer has de pitjar aquest botó? I aquest altre què fa? Hmmf... *queixa*#$b#Hehe! Bé, Què et sembla això? Un nou canal!$h#$b#Té, queda't això. És una pedra de l'època en què era miner. Sempre m'ha fet gràcia la seva brillantor blava, i s'ha mantingut freda durant quaranta anys. Gairebé sembla màgica!",
+        "pamHouseUpgrade": "Gràcies per canviar aquell camió atrotinat... és molt més bonic mirar a la nova casa.#$e#Saps, segur que fins i tot ha augmentat el valor de la nostra casa!",
+        "pamHouseUpgradeAnonymous": "Bé... aquella casa em tapa una mica les vistes al riu... però està ben clar que és molt millor que no pas aquella llauna atrotinada on vivia la Pam.",
+        "MovieInvitation": "Vols veure una pel·lícula amb un vell xaruc com jo? ...Doncs... està bé. Ens veiem al cinema.",
+        "joja_Begin": "O sigui... que el centre comunitari ja no hi és, eh? Què ha passat amb els valors morals de les viles? És una pena com han canviat els temps...",
+        "Mon": "No sóc gaire xerraire jo. Especialment amb estranys, si no et molesta.",
+        "Tue": "Hmmf... Sembla que avui serà un altre dia ombrívol.$s",
+        "Wed": "L'Alex és el meu nét. T'ho havia dit ja això?#$e#Eh? Va, parla.",
+        "Wed_inlaw_Alex": "Com pot ser que es casin dos homes? És antinatural... Hmmf. Suposo que estic massa \"antiquat\"...^Ara ets part de la família. M'alegra que el meu nét hagi trobat una dona tan bona.",
+        "Wed10_inlaw_Alex": "He d'admetre que em semblava... estrany... que dos homes estiguessin junts. Però ets un vailet tan amable, i veient que us estimeu tant... He canviat d'idea.^Ara ets part de la família... i no podria estar-ne més orgullós.",
+        "Thu": "No puc parlar ara, jovenet.^No puc parlar ara, senyoreta.#$e#Ara fan el meu programa preferit.",
+        "Fri": "O sigui que tu ets el pagès, eh? Almenys és una feina ben honesta.^O sigui que tu ets la pagesa, eh? Almenys és una feina ben honesta.",
+        "Sat": "El cap de setmana no és gens diferent de la resta de dies per a mi.#$e#Així és com és quan et jubiles.",
+        "Sun": "No tens fred? Ja no fan jaquetes com les d'abans.#$e#*Sospir*",
+        "Mon6": "Em sorprèn que vulguis ser amic d'un vell com jo.^Em sorprèn que vulguis ser amiga d'un vell com jo.",
+        "Thu6": "Hola, @. Vols veure la televisió amb mi?",
+        "Fri4": "El meu avi era un pagès. És una professió ben respectable.#$e#Si no fos tan fotudament vell, aniria a la teva granja a ensenyar-te un parell de coses...",
+        "Wed8": "Tant de bo pogués fer servir les cames per a poder jugar amb l'Alex.$s#$e#Però no passarà mai.$s",
+        "Fri8": "He estat pensant... Potser he sigut una mica groller.$s#$e#Abans pensava que a ningú li importàvem els vells com jo.",
+        "Fri10": "Saps, he sigut un vell groller amb tothom. Però ara em sento com si m'estigués suavitzant com una fruita llesta per a collir. Hehe!$h#$e#Cuida't, noiet.^Cuida't, noieta.",
+        "Wed10": "@! Deixa que apagui aquest coi de televisió per a poder parlar.$h#$e#I bé, què fa el jovent avui dia?",
+        "Tue10": "Saps, no m'hauria de deprimir tant per les meves cames.#$e#Hauria d'agrair que encara sóc viu.$h",
+        "Thu10": "Quan arribes a la meva edat es torna molt difícil adaptar-se a les noves coses.#$e#Algun dia m'entendràs.#$e#Apa va, vés a gaudir tu que encara ets jove.",
+        "winter_1": "Ohh... Quin fred.#$e#Quan ets jove no el sents tan fort."
+    }
+}

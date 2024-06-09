@@ -1,0 +1,59 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Universal_Love": "74 446 797 373 279",
+        "Universal_Like": "-2 -7 -26 -75 -80 72 395 613 634 635 636 637 638 724 459",
+        "Universal_Neutral": "194 216 262 304 815",
+        "Universal_Dislike": "-4 -8 -12 -15 -16 -19 -22 -24 -25 -28 -74 78 169 246 247 305 309 310 311 403 419 423 535 536 537 725 726 749 271",
+        "Universal_Hate": "0 -20 -21 92 110 111 112 142 152 153 157 178 105 168 170 171 172 374 376 378 380 397 420 684 721 766 767 772 203 308 265",
+        "Robin": "Això és per mi? Apa, doncs m'encanta!!/224 426 636/Gràcies! Això està molt bé!/-6 -79 424 709/Em... per què?/16 330/Però què...? Això és horrorós!/2/Gràcies. Això em serà força útil.// ",
+        "Demetrius": "Que dius que em dónes això? És genial!/207 232 233 400/Gràcies! Aquest és un espècimen certament interessant./-5 -79 422/...Què és això?/80 330/Això és fastigós./2/Gràcies, és un molt bon detall de part teva./-4/ ",
+        "Maru": "Això és...? Caram, @! És espectacular!/72 197 190 215 222 243 336 337 400 787/Això és un súper regal! Gràcies!/-260 62 64 66 68 70 334 335 725 726/Oh... Això és per mi? Ho deixaré per aquí.../-4 330 414 410 404 724/Ecs! De debò et pensaves que això m'agradaria?/340 342 2 430 416/Gràcies.// ",
+        "Sebastian": "M'encanta això. Com ho has sabut?/84 227 236 575 305/Gràcies, això m'agrada./267 614 276/...?/-81 30 -80/...Odio això./-5 2 459 195 201 240 330 -26/...gràcies./-4/ ",
+        "Linus": "Això és genial! M'acabes de fer el dia./88 90 234 242 280/Aquest és un molt bon regal. Gràcies!/-5 -6 -79 -81/Hmm... Això no em fa gaire servei./-2 330/Com se t'acut donar-me una cosa com aquesta? Creus que m'agrada la teva brossa sols perquè visc a una tenda? Terrible./2/Un regal? Molt amable./-4/ ",
+        "Pierre": "Això m'encanta! Moltes gràcies!/202/Això és tot un detall de part teva. M'agrada molt./-5 -6 -7 18 22 402 418 259/No m'acaba de fer el pes.../-2 -81 330/Si us plau, no em tornis a portar això mai més./167 -4 199 270 229 248/Un regal? Gràcies!// ",
+        "Caroline": "De debò que això és... per mi? M'he quedat bocabadada./213 614 593/Alça! Segur que m'ho vols donar?/-7 18 815 402 418/No, no, no.../-81 330 300 306 307/Això és una porqueria. M'ofens./80 296/Oh, que bufó. Gràcies.// ",
+        "Abigail": "M'encanta això! Ets genial, @!/66 128 220 226 276 611/Apa, com sabies que tenia gana? Això té molt bona pinta!//I què se suposa que he de fer amb això?/-5 -75 -79 16 245 246/Però en què carai estaves pensant? Això és horrorós!/330/M'has dut un regal? Gràcies.// ",
+        "Alex": "Ei, genial! M'encanta això!/201 212 662 664/Això és genial! Gràcies./-5/Em... D'acord. Gràcies./16 330/De debò? Això és una porqueria./80/Gràcies!// ",
+        "George": "Això és del millor que hi ha en el món! Gràcies./20 205/Gràcies./18 195 199 200 214 219 223 231 233/Això és una porqueria de regal./-80 16/Aquest és probablement el pitjor regal que m'han fet mai. Moltes gràcies./22 80 330/Un regal? Hmm...#$e#Que vols alguna cosa a canvi?// ",
+        "Evelyn": "*sorpresa*... Això és absolutament meravellós!$u#$e#Has fet feliç a una velleta./72 220 239 284 591 595/Caram, és genial! És un molt bon detall de part teva./-6 18 402 418/Hm, on ficaré això?/16 80/...quina pudor./225 226 227 228 219 396 397 393 372 248 296 -4 330/Oh, molt amable. Moltes gràcies.// ",
+        "Lewis": "Apa, això m'encanta! Moltes gràcies!/200 208 235 614 260/Gràcies, això és genial!/-80 24 88 90 192 258 264 272 274 278/Bé, la intenció és el que compta que diuen.../-6 16 330/Això em posa malalt. Quin regal més fastigós./80/Molt amable de part teva. Gràcies.// ",
+        "Clint": "Sí! Això és exactament el que volia!/60 62 64 66 68 70 336 337 605 649 749/Aquest regal és divertit. Gràcies!/334 335/*Sospir*.../-80 2 16 80 /Això em deprimeix./4/Gràcies./-15/ ",
+        "Penny": "Moltes gràcies! Això m'encanta!/60 376 651 72 164 218 230 244 254/Gràcies! Sembla molt especial./-6 20 22/Ehh, això és per mi? ...Gràcies./-4 80 330 456 457 444 440 422 420/Ugh...Em sap greu, però això no m'agrada gens ni mica./446 346 348 303 304 398 459/Gràcies, és molt maco.// ",
+        "Pam": "Ei, ei! Ara si que ens entenem! Moltíssimes gràcies, jove./24 90 199 208 303 346 459/Has fet bé amb això, jove. Gràcies!/-6 -75 -79 18 227 228 231 232 233 234 235 236 238 402 418/Senzillament això no em fa goig./-5 16 80 330/Això és absolutament menyspreable.$u#$e#(Que és una mena d'acudit dolent això?)/149 151/Gràcies, jove./-4/ ",
+        "Emily": "Aquest regal és fabulós! Moltíssimes gràcies!/60 62 64 66 68 70 241 428 440/Gràcies! Aquest regal em transmet energia positiva./18 82 84 86 196 200 207 230 235 402 418/Em sap greu, @. No m'agrada./78 2 232 233 225 226/Aquest regal em transmet un munt d'energia negativa. No ho suporto./212 213 227 228/Gràcies!// ",
+        "Haley": "Oh Déu meu, això m'encanta!!/221 421 610 88/*sorpresa*...per mi? Gràcies!/18 60 62 64 70 88 222 223 232 233 234 402 418/Ugh...quin regal més estúpid./-5 -6 -75 -79 -81 80 -27/Fastigós!/-4 2 16 330 74/Gràcies. M'encanten els regals.// ",
+        "Jas": "*sorpresa*...Bufa!! Gràcies!$h/221 595 604/M'encanten els regals! Gràcies!/18 60 64 70 88 232 233 234 222 223 340 344 402 418/Això és un regal? Oh...$s/-5 -81 -75 -79 80/Ecs. Això em fa angúnia.$s/395 459 -26 2 16 330/Gràcies!// ",
+        "Vincent": "Apa, moltes gràcies! Això és genial!/221 398 612 721/Per mi? Apa, gràcies!/18 60 64 70 88 232 233 234 222 223 340 344 402 418/Això no és gaire divertit...$s/-5 -75 -79 -81 80/Ecs, què és això?$s/395 459 -26 2 16 330/Gràcies!// ",
+        "Jodi": "Oh, ets un encant! M'agrada molt això!/72 200 211 214 220 222 225 231/Gràcies! Has fet el meu dia més especial./-5 -6 -79 18 402 418/Hmm, bé, suposo que sempre ho puc reciclar.../-81 80 248 330/*Blegh*... Odio això.../18 22 396/Molt amable de part teva! Gràcies.// ",
+        "Kent": "Oh...! La meva mare sovint em donava això quan era un jovenet. Em porta molts bons records. Moltes gràcies./607 649/Ei, aquest és un molt bon regal. Gràcies./-5 -79 18 402 418/Ah... És un... què és això exactament? Hmm.../80 330 416/Això... Em van donar això a una presó de Gotoro. Fa temps que ho vull oblidar. *tremola*/-6 2 227 229 456/Molt amable de part teva. A la família li agradarà.// ",
+        "Sam": "Oh, sí! Això és de les meves coses preferides!/90 206 655 658 562 731/Gràcies! M'agrada molt això./167 210 213 220 223 224 228 232 233 239 -5/Hmm.. és... interessant./-81 80 152 330 -75/De debò que no ho entens gens, eh?/306 307 342 -15 2/M'has portat això a mi? Gràcies!// ",
+        "Leah": "Oh! Això és exactament el que volia! Gràcies!/196 200 348 606 651 650 426 430/Aquest és un molt bon regal! Gràcies!/-5 -6 -79 -81 18 402 169 406 408 418 86/Hmm... Suposo que cadascú té els seus gustos./-2 2 152 330 221 223 229 232 233 241 209 194/Aquest és un regal ben dolent, no creus?/305 211 210 206 216/Gràcies.// ",
+        "Shane": "Ah carai, @! Com sabies que això m'agrada tant?/206 215 260 346/Això és genial! Gràcies!/-5 -79 303/No m'acaba d'agradar això./-81 152 330/Per què intentes donar-me la teva brossa?/80 342/Oh, que m'has portat alguna cosa? Gràcies!// ",
+        "Marnie": "Aquest regal és increïble! Moltes gràcies!!/72 221 240 608/Moltes gràcies!/-5 -6 402 418/Oh. Suposo que l'agafaré./16 152/Això és un trasto inútil. No t'acabo d'entendre./330/Moltes gràcies! Té molt bona pinta.// ",
+        "Elliott": "@, aquest regal és preciós! Moltes gràcies!/715 732 218 444 637/Això és per mi? Meravellós!/727 728 -79 60 80 82 84 149 151 346 348 728/Hmm... No sóc un gran fan d'això./16 206 330 -79 -81 -6/Aquest objecte em provoca una sensació horrorosa. L'hauré de llençar com més aviat millor./80 154 300 296/Oh, un regal! Moltes gràcies!/-4/ ",
+        "Gus": "Això que portes és... per mi? M'he quedat bocabadat./72 213 635 729/Oh, alça! Segur que és per mi?/348 303 -7 18/No, no, no.../16 330/Això és una absoluta porqueria. M'has ofès./80 167 648/Oh, que dolç. Gràcies.// ",
+        "Dwarf": "Ei, aquestes coses m'encanten. Sempre pots trobar coses d'allò més interessants a les mines./60 62 64 66 68 70 749/Ah, això em porta records de casa./78 82 84 86 96 97 98 99 121 122/Hmm... Això us agrada als humans?/-5 -6 16 -81 2 4 330/No m'importa de quina espècie siguis. Això és una porqueria inútil.//Ah, una ofrena! Moltes gràcies./-28/ ",
+        "Wizard": "Ahh, això està imbuït amb potents energies arcanes. Serà molt útil per als meus estudis. Moltes gràcies!/155 422 769 768/Moltes gràcies. Aquest objecte té unes propietats molt interessants./-12 72 82 84/Això?... Suposo que ho faré servir per a practicar la meva màgia de foc, a veure què passa./-5 -6 -81 2 16 330 766/Ughh... Això és terriblement mundà. Si us plau, no em molestis més amb això a partir d'ara.//Moltes gràcies. Em penso que això em serà útil.// ",
+        "Harvey": "És per mi? Això és de les coses que més m'agrada en el món! És gairebé com si m'haguessis llegit la ment./348 237 432 395 342/Aquest és un regal molt bo. Moltes gràcies!/-81 -79 -7 402 614 418 422 436 438 442 444 422/Hmm... Vols dir que això és sa?/-4 424 426 2 330 233 232 238 234 223 222 221 220 216 211 210 208 206 205/...Em sembla que sóc al·lèrgic a això./296 245 397 396 394 393 392/Gràcies. Molt amable de part teva.// ",
+        "Sandy": "Ooo! M'encanta moltíssim rebre flors de la vall. M'has fet molt feliç!~/18 402 418/Això és meravellós. Moltes gràcies!/-75 -79 88 428 436 438 440/Oh... Em. Gràcies./-4 2 330/*esniff* ...i això què és?//Això és per mi? Gràcies!// ",
+        "Willy": "Això és genial! Si tan sols el meu pare estigues per aquí. Com xalaria amb això./72 143 149 154 276 337 698 459/Això és genial. Moltes gràcies!/66 336 340 699 707 198 202 209 212 213 214 219 225 727 730 728 732 265/Hmmm... T'agraden aquesta mena de coses? Huh./-7 -81 2 4 330/... *esniff*... Bé, suposo que ho puc fer servir d'esquer.//Un regal! Gràcies./-4 227 228 242/ ",
+        "Krobus": "Aquest regal és genial. Pel meu poble és un gran honor rebre una cosa com aquesta./72 16 276 337 305 308/Moltes gràcies./66 265 336 340/Els humans tenen... uns gustos ben curiosos./-7 -81 2 330/Oh... Em. Suposo que l'acceptaré.//Gràcies.// ",
+        "Leo": "M'encanta. Ho posaré al meu niu./444 289 834 906/De debò? És tot un detall.../852 396 392 394 397 905/Oh... No crec que pugui digerir això.../-7 -81 2 330 303 459 342 346 348/*esnif* *esnif*... Per què em dónes això? Vols que ho enterri per tu o què?/257 253 247 271 283 304 303 346 873 348 459 167/Accepto el teu regal./-4 395/"
+    }
+}

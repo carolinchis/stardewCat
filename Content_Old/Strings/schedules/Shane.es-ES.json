@@ -1,0 +1,29 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "marriage_Fri.001": "Hmm... m'he de quedar, JojaMart té una gran selecció de plats congelats.",
+        "marriage_Mon.001": "Em sento molt connectat a aquest bosc... molts records...",
+        "marriage_Fri.000": "No t'amoïnis, això només és Joja Cola.",
+        "marriage_Fri.002": "Si no demano una de ben freda de tant en tant, en Gus farà fallida. Ho considero el meu deure cívic. Tornaré a casa al voltant de les deu.",
+        "marriage_Mon.000": "Oh, ei @. Em trobes a faltar?$6",
+        "winter_15.000": "Avui no aniré al bar, pel bé de la Jas...",
+        "marriage_Sun.000": "Fa pudor aquí.",
+        "marriage_Sun.001": "Tinc un bloqueig de cola... agafo la Joja Clàssica o la Joja Bluu? Hm, quin dilema...",
+        "marriage_Fri.003": "Només jugaré una ronda més...$h"
+    }
+}

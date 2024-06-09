@@ -1,0 +1,46 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Maru0": "Estic molt emocionada.$h#$b#Seré la teva esposa. Hehe.$l",
+        "Maru1": "He de preparar-me mentalment per la vida a la granja.",
+        "Leah0": "...$l#$e#Estic una mica nerviosa. Però sóc feliç.$h",
+        "Leah1": "Sempre he somiat amb viure a una granja.$h#$e#Seré tan feliç.",
+        "Haley0": "Estic molt contenta!$h#$e#És exactament com sempre ho he somiat.$l",
+        "Haley1": "Està bé. Ja sé que no podrem fer cap viatge de noces perquè has de cuidar de la granja.#$e#Ara jo també sóc una pagesa!",
+        "Penny0": "@.. Estic una mica espantada. Aquest és un canvi molt gran per a mi!#$e#No t'amoïnis, també estic molt feliç.$h",
+        "Penny1": "Ben aviat formarem una petita família a la granja.$l#$e#Estic tan contenta que m'estimis tant.$h",
+        "Abigail0": "Hehe. Jo? Casant-me? Mai ho hauria dit.$h#$e#Ens ho passarem molt bé.$h",
+        "Abigail1": "Estic casada amb una persona ben natural. Wow!$h#$e#Les nostres vides seran molt diferents d'ara endavant.$l",
+        "Sam0": "Ser el teu marit em farà molt feliç, @.$l#$e#Estic molt emocionat.",
+        "Sam1": "Mai hauria imaginat que acabaria casant-me. Sóc tan afortunat.$l#$e#No puc esperar-me a la cerimònia.$h",
+        "Sebastian0": "No m'ho puc creure. En un parell de dies estaré vivint a una granja.$h#$e#Però sóc feliç.$l",
+        "Sebastian1": "Quan vas aparèixer per la vila mai hauria imaginat que em casaria amb tu.$l#$e#La vida és estranya, oi?$h",
+        "Harvey0": "Oh Déu meu! He de preparar tantes abans de la cerimònia! Estic nerviós.$l#$e#Estaré més tranquil quan estigui tot preparat a la teva granja.$h",
+        "Harvey1": "Estic molt feliç.$h#$e#Sempre havia desitjat això.$l",
+        "Elliott0": "La granja serà un lloc perfecte per a escriure. Tinc moltes ganes d'anar-hi.$h#$e#Farem bona parella.$l",
+        "Elliott1": "Aquesta serà una gran aventura! Estic molt emocionat, i tu?$h#$e#Podríem fer servir la meva cabana per estiuejar.$l",
+        "Alex0": "@, això és el millor que podria haver passat.$l#$e#No puc esperar.$h",
+        "Alex1": "M'encantarà ser pagès.$h",
+        "Shane0": "Una part de mi encara es pensa que això és una mena d'acudit enrevessat.#$e#No em puc creure que de debò et vulguis casar amb algú com jo.",
+        "Shane1": "@... Em fa voltes el cap i ni tan sols he pres cap cervesa avui.",
+        "Emily0": "Et pots creure que ara viurem a la mateixa casa? Mai he viscut amb ningú que no fos de la família.#$e#És... emocionant.",
+        "Emily1": "Sempre he pensat que alguna cosa important sorgiria entre nosaltres... Però no m'havia imaginat això!$h#$e#I el lloro també està emocionat.",
+        "Krobus0": "@... Em sembla que haurem de mantenir-ho en secret... Cap dels nostres pobles acceptaria mai la nostra unió.",
+        "Krobus1": "Saps que serà estrany viure amb mi, oi? No podré sortir de casa..."
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Ep, tens traça amb la mineria, per ser un d'aquests humans.",
+        "Mon": "Vaig agafar tot això de superfície. Els ho prenc als teus durant la nit.#$e#Hmm? Què és aquest concepte que anomeneu \"propietat privada\"?",
+        "Tue": "Ah... Estofat de pastanaga, rostit de pastanaga, sopa de pastanagues de la cova i pastanagues de la cova gratinades.#$e#...I un bocí de crema cremada de pastanaga per endolcir la nit.#$e#Què?",
+        "Wed": "Ep, vols comprar res?",
+        "Wed_6": "Fa molts anys, la meva gent coneixia els secrets de la tecnologia avançada. Les troballes arqueològiques ho indiquen.#$e#Però quins n'eren els orígens? I què va passar amb tot plegat? Suposo que hi ha preguntes que no tenen resposta...",
+        "Thu_4": "Em sento més còmode sota terra.#$e#Com més avall millor.",
+        "Fri": "Mai havies vist a un de la meva espècie, oi?",
+        "Sat_8": "Les mines poden ser un lloc traidor. Ves amb compte, colega.",
+        "Sat": "És perillós estar-se a les mines. Per què no em compres quelcom per estar més segur?",
+        "Sun": "Algun dia m'hauràs de parlar d'aquesta cosa que anomeneu \"llet\".",
+        "Thu": "No ets un espia de la gent de les ombres, no?#$e#No et treuré l'ull de sobre per si de cas.",
+        "Fri_2": "La majoria dels humans tenen por d'allò que no coneixen... És per això que tinc aquí la meva botiga.#$e#Les teves habilitats mineres m'han demostrat que en tu hi puc confiar."
+    }
+}

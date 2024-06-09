@@ -1,0 +1,30 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Fri.000": "Tant de peix salat tot el dia em fa venir molta set.",
+        "spring_9.001": "Eh, tinc un ham enganxat al polze... el Doctor l'haurà de treure.",
+        "winter_17.000": "Ah, no hi ha res com una beguda calenta per descansar després d'un dia fred i fosc...",
+        "spring_9.002": "Au! Això fa mal, Doc!$s",
+        "spring_9.000": "Tinc una cita amb el metge avui, per tant si has de comprar alguna cosa, afanya't.",
+        "spring_9.003": "Necessito una petita preparació, hauré de passar una altra nit freda a l'oceà.$h",
+        "Sat.000": "Ah... No hi ha res millor que relaxar-se amb una beguda freda després d'un bon dia de pesca.$h",
+        "winter_15.000": "No puc dormir bé amb aquest mercat nocturn... eh, però tant se val. Sóc flexible.",
+        "winter.000": "Necessito una petita preparació, hauré de passar una altra nit freda a l'oceà.$h",
+        "winter_16.000": "Has anat al submarí de fons? El capità és un vell amic meu."
+    }
+}

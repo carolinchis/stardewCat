@@ -1,0 +1,58 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Vejam, et dono la benvinguda a la nostra petita comunitat! #$b#Pots dir-me 'àvia', si vols.$h",
+        "reject_867": "Oh, segur que a en George li interessa!",
+        "reject_866": "És una rosa molt bonica, jove. Li has ensenyat a l'Emily? Em recorda a ella.",
+        "pamHouseUpgrade": "Oh, tresor... Ha estat un acte molt bondadós fer que la Pam tingui una casa nova tan bonica!$h#$e#Se m'escalfa el cor quan les persones tenen cura les unes de les altres d'aquesta manera...",
+        "pamHouseUpgradeAnonymous": "Potser penses que soc una vella xarruca que no hi toca... Però em sembla que tinc una idea força clara sobre qui ha pagat la nova casa de la Pam... *picada l'ullet*",
+        "MovieInvitation": "Renoi! Ets molt amable. Oi tant... m'encantaria anar al cinema!$h#$b#Ves fent via, ja ens veurem allà.",
+        "Mon": "Vatua! Quin dia més agradable.$u",
+        "Tue": "No facis cas al meu marit, en George. No és gaire amistós amb els desconeguts.#$e#Si comences a conèixer-lo, veuràs que és una persona molt afable.#$e#Estic segura que algun dia us caureu d'allò més bé l'un a l'altre!$h#$e#Ja que et veig amb tant d'interés, t'explicaré un petit secret sobre el meu marit: li agraden molt els porros! I de fet, en pots trobar a la muntanya durant aquesta estació.",
+        "Wed": "#$1 evelynGarden1#Ahir vaig veure una família de papallones voltejar pel jardí del poble, eren tan boniques...$k#$e#El batlle Lewis m'ha deixat a càrrec dels jardins del poble.#$e#Fa setmanes que treballo en les flors d'aquestes jardineres, o sigui que no les trepitgis pas!",
+        "Thu": "Avui couré galetes. A la primavera m'agrada que tinguin forma de flors.$h#$e#Potser algun dia d'aquests t'explicaré la meva recepta.",
+        "Fri": "En George s'està tot el dia davant aquell maleït televisor.#$e#Tant de bo sortís a fer tombs més sovint. Una mica d'aire fresc no li aniria pas malament.",
+        "Sat": "Fa uns anys m'encantava observar els núvols, malauradament ara em costa de veure'ls.#$e# Els meus ulls ja no son el que eren.$s",
+        "Sun": "És molt agradable poder veure la mar tant a la vora. De fet, el so que fan les onades fa que m'adormi abans.#$e#De joveneta atrapàvem les petxines que duien les onades abans no se les endugués el corrent endins. En aquell temps...",
+        "Tue6": "Que bé que vinguis a visitar-nos a en George i a mi!#$e#Si no tinguéssim tants vailets voltant per aquí ens faríem vells molt més aviat.$h",
+        "Event_cookies1": "Ai moltes gràcies!$h",
+        "Event_cookies2": "Com dius, tresor? Juraria que has dit 'disc d'hoquei'. *suspir* Les meves orelles ja no senten com ho feien abans.$s",
+        "summer_Mon": "Em sento més vigorosa amb l'oratge de l'estiu.$u",
+        "summer_Mon_inlaw_Alex": "Com li va al meu net? Me l'imagino d'allò més feliç vivint a la granja.#$e#Es mereix ser feliç... és un bon xicot.",
+        "summer_Tue": "En George sol ser una mica menys rondinaire a l'estiu. L'escalfor li entendreix el cor.#$e#Potser a tu pot no semblar-t'ho, però jo ho noto. El conenc de fa seixanta anys!",
+        "summer_Wed": "El batlle Lewis m'ha deixat a càrrec dels jardins del poble.#$e#Fa setmanes que treballo en les flors d'aquestes jardineres, o sigui que no les trepitgis pas!",
+        "summer_Thu": "Avui couré galetes. Les faré en forma de palmeres de coco! Heehee.$h#$e#Potser algun dia d'aquests te n'explicaré la recepta.",
+        "summer_Sat": "Compte amb el sol, tresor. Ves que no et cremi!",
+        "summer_Sun": "Els pèsols d'olor floreixen en aquesta temporada.#$e#Tenen una fragància tan gentil, no ho creus?",
+        "summer_Thu4": "Sempre tenim més visites els dies que em poso a coure les meves galetes.#$e#Va ser la meva mare qui me'n va ensenyar la recepta.",
+        "fall_Mon": "Amb cada any que passa aprecio més i més les estacions. Pel jovent en canvi és més fàcil deixar que vagin passant.",
+        "fall_Tue": "Fa un temps que poso panses al bol de civada que es pren en George cada matí... però mai no ha dit res en relació al tema. De vegades em demano si se n'adona d'aquestes cosetes.",
+        "fall_Wed": "El batlle Lewis m'ha deixat a càrrec dels jardins del poble.#$e#Les flors de la tardor son d'allò més delicades, o sigui que no les trepitgis pas! Que sé com son alguns vailets d'avui en dia.",
+        "fall_Thu": "Avui també posaré un bon munt de galetes a coure. Aquest cop tindran forma de carabassetes.$h#$e#Potser algun dia d'aquests t'explicaré la meva recepta.",
+        "fall_Sat": "Ets un dels amics de l'Alex?#$e#De vegades m'amoïna a més no poder aquest xicot.",
+        "fall_Sat_inlaw_Alex": "Oh, bon dia tresor. Ja fa temps que et veig com si fossis el meu net.$h^Oh, bon dia tresor. Ja fa temps que et veig com si fossis la meva neta.$h",
+        "fall_Sun": "La meva vista se'n va anar en orris fa temps, però el meu olfacte és tan eficient com ho era el primer dia!#$e#Puc sentir l'olor de les fulles caigudes i dels bolets que hi ha a sota. Em recorda als boscos pels que jugava quan era joveneta.",
+        "winter_Mon": "Ves amb compte no rellisquis amb el glaç.",
+        "winter_Tue": "No tens fred, tresor? Hauries de portar una jaqueta més gruixuda!#$e#Aquest temps no és bo pels meus lligaments...$s",
+        "winter_Wed": "Solc ser jo qui s'encarrega dels jardins, però ara estan coberts de neu.#$e#Tot i això, m'agrada atansar-m'hi sovint per veure com estan.",
+        "winter_Sat": "Portem vivint aquí 30 anys i escaig.#$e#N'hem vist a molts venir i anar-se'n. Com per exemple el teu avi. Que en pau descansi... *sospir*",
+        "winter_Sat6": "Oh... tresor. Tens els mateixos ulls que el teu avi...$s#$e#Sí... Sí... Jo el coneixia molt bé, al teu avi.",
+        "winter_Sun": "Hauries de fer una sopa ben calenta per escalfar-te durant aquests dies.#$e#I no t'oblidis de dur la jaqueta posada!",
+        "winter_Sat8": "@, t'he dit algun cop que en George i jo portem visquent aquí pels volts dels 30 anys?#$e#Espero que no te'n vagis en força temps.$h"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "spring_16.001": "Estic sana, Doctor Harvey?",
+        "marriage_Mon.000": "Hola, @. Estic gaudint de l'aire fresc. Em calia sortir de casa durant una estona.",
+        "winter_15.000": "Hmmm... un Lupini original? No està malament...",
+        "spring_16.000": "Hola. Has vingut per veure el doctor?"
+    }
+}

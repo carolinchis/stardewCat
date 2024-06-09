@@ -1,0 +1,66 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Salutacions! Sóc en Demetrius, científic local i pare de família. Gràcies per venir a saludar!#$e#Estic estudiant la fauna i flora local al laboratori de casa meva.#$b#Has conegut la meva filla, la Maru? M'ha dit que et vol conèixer.",
+        "Resort_Entering": "Ja he vist una nova espècie de cranc. Aquest lloc és genial.$h",
+        "Resort_Leaving": "Estaré analitzant aquestes dades durant mesos.",
+        "Resort_Shore": "*nyam-nyam*... ups, allà va una espècie de cranc en perill d'extinció...$s#$b#...#$b#Oh, no t'amoïnis, només era la closca! Podré dormir aquesta nit.",
+        "Resort_Chair": "Què, gaudint de l'illa, @? Has de recordar de prendre't algun descans de tant en tant!",
+        "Resort_Bar": "Normalment, no participo en aquestes coses... Però normalment tampoc sóc a una illa tropical. Hahaha.$h",
+        "Resort": "Aquest lloc és increïble. És ple a vessar de vida exòtica!",
+        "reject_869": "És un bon espècimen, però d'una espècie molt comuna. Pots quedar-te'l.",
+        "reject_865": "Fruita i sal? Quina combinació més estranya...$s",
+        "pamHouseUpgradeAnonymous": "La Robin no em vol dir ni tan sols a *mi* qui ha pagat per la nova casa de la Pam!#$e#Faig veure que m'empipa però en secret me n'alegro que sigui tan lleial a la seva paraula...$h",
+        "Mon": "La Maru m'ajuda al laboratori de tant en tant... És una bona noia.",
+        "Mon_inlaw_Maru": "És difícil preparar bons experiments sense l'ajuda de la Maru...#$b#Però la seva felicitat és més important que qualsevol experiment!",
+        "Tue": "Aquesta vall té un ecosistema veritablement divers i vibrant. És un dels motius pel qual estava tan emocionat de venir a viure aquí.",
+        "Wed": "Segurament estàs cultivant un munt de plantes molt interessants a la granja, eh?#$e#Potser hi vaig algun dia a donar un cop d'ull.",
+        "Thu": "Com va el negoci de la granja? És la temporada de les xirivies, oi?#$e#Ja m'imagino que és ben tranquil, tot el dia a l'aire lliure tenint cura de les plantes.",
+        "Fri": "La Robin té molt mal geni. És molt millor no fer-la empipar.#$e#No li diguis que he dit això.$h",
+        "Sat": "Vejam... Si els compostos a la rizosfera tenen prou nivell de carboni-13, aleshores...$u#$b#Oh! Perdona'm. Estava rumiant sobre unes dades i no m'he adonat que eres aquí.#$e#Necessites quelcom?",
+        "Sun": "És bo fer un descans de tant en tant.#$e#Però suposo que això és difícil quan vius a una granja.#$e#Ei, almenys a l'hivern no t'has de preocupar de cap collita.",
+        "Fri4": "La Robin té molt mal geni. És molt millor no fer-la empipar.#$e#...si pogués quantificar el seu estat anímic, potser podria fer un model de fluctuacions amb una corba sinusoidal...$u",
+        "Wed6": "Hola @! Com et trobes avui?#$e#Tant de bo pogués ajudar-te amb la teva feina a la granja d'alguna manera.",
+        "Event_tomato1": "De debò? M'imaginava que un pagès coneixeria la resposta correcta...$s",
+        "Event_tomato2": "Ho veus? En @ està d'acord amb mi.^Ho veus? La @ està d'acord amb mi.",
+        "Event_Lab_Silence": "Bé, millor que valorem aquesta solució abans no se'ns cristal·litzi.",
+        "Event_Lab_Rat": "*sospir*... %fork$4",
+        "summer_Mon": "#$e#En %Demetrius està immers als seus pensaments.#$e#Em sap greu, estic molt ocupat.#$e#Tinc un munt de plantes per estudiar ara.",
+        "summer_Tue": "Assegura't de regar les teves plantes cada dia.#$e#Tot i que si fas servir sòl de retenció d'aigua, no has de preocupar-te de regar-les tan sovint.#$e#És molt pràctic.",
+        "summer_Thu": "Com va el negoci de la granja? És la temporada del tomàquet, oi?#$e#Ja m'imagino que és ben tranquil, tot el dia a l'aire lliure tenint cura de les plantes.",
+        "summer_Fri": "$p 40#He sentit que la Maru et va fer mirar pel telescopi del darrere.|Si et fas amic de la Maru segur que t'ensenya com fer servir el telescopi del darrere.#$e#Emocionant, oi?",
+        "summer_Fri_inlaw_Maru": "Espero que la meva filla estigui al dia amb les matemàtiques i les ciències!",
+        "summer_Sat": "Hmm... Si poguéssim augmentar els nivells d'estigolactona, hi hauria un efecte proporcional en el creixement de micorizoes?$u#$b#Oh! Perdona'm. Estava rumiant sobre unes dades i no m'he adonat que eres aquí.#$e#Necessites quelcom?",
+        "summer_Mon6": "Em vaig fer científic perquè volia contribuir al progrés de la nostra espècie.#$e#Per descomptat, res d'això seria possible sense els pagesos com tu.$h",
+        "fall_Mon": "Durant aquesta època de l'any centro la meva atenció en els fongs.",
+        "fall_Tue": "Coneixem molt sobre la natura gràcies a la ciència.#$e#Però sempre hi ha coses per aprendre.",
+        "fall_Thu": "Com va el negoci de la granja? És la temporada del blat de moro, oi?#$e#Ja m'imagino que és ben tranquil, tot el dia a l'aire lliure tenint cura de les plantes.",
+        "fall_Fri": "La Maru inverteix un munt de temps treballant en aquells aparells seus.#$e#M'alegra que sigui tan dedicada.",
+        "fall_Fri_inlaw_Maru": "Encara estic bocabadat pel robot secret de la Maru... ha sigut tot un somni?",
+        "fall_Sat": "Vejam... potser el nivell de fixació de nitrogen està afectat per les secrecions de nematodes...$u#$b#Oh! Perdona'm. Estava rumiant sobre unes dades i no m'he adonat que eres aquí.#$e#Necessites quelcom?",
+        "fall_Wed6": "Hola @. M'alegro que sempre que vens de visita.#$e#És bo tenir una mica de companyia després de tanta feina solitària al laboratori.",
+        "winter_Mon": "Estic fent un descans de la meva investigació ara.",
+        "winter_Tue": "Parla amb la meva esposa si vols expandir la teva casa.",
+        "winter_Wed": "Ja tens una cuina a casa teva?#$e#Cuinar s'assembla una mica a la feina de laboratori.",
+        "winter_Thu": "Tens cap animal a la teva granja?",
+        "winter_Fri": "Hola.#$e#En %Demetrius sembla immers als seus pensaments.",
+        "winter_Sat": "Vejam... si els nivells de nitrogen estacionals es poguessin modelar amb una funció definida a trossos...$u#$b#Oh! Perdona'm. Estava analitzant unes dades i no m'he adonat que eres aquí.#$e#Necessites quelcom?",
+        "winter_Sun": "No dubtis a recollir tota la fusta i pedra que hi hagi per aquesta zona tant com vulguis.",
+        "winter_Fri4": "Gràcies per venir. He de pensar en alguna cosa que no siguin llegums durant una estona.#$e#I bé, què has estat fent darrerament?#$e#Això sona interessant."
+    }
+}

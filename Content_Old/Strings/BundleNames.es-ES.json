@@ -1,0 +1,37 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Rare Crops": "Cultius poc comuns",
+        "Fish Farmer's": "Granja de peixos",
+        "Garden": "Jardí",
+        "Brewer's": "Cerveseria",
+        "Quality Fish": "Peixos de qualitat",
+        "Master Fisher's": "Mestre de la pesca",
+        "Treasure Hunter's": "Caça-tresors",
+        "Children's": "Nens",
+        "Forager's": "Farratger",
+        "Home Cook's": "Cuina casolana",
+        "Wild Medicine": "Medecina salvatge",
+        "Sticky": "Enganxós",
+        "Engineer's": "Enginyer",
+        "Slime Farmer's": "Granja de llimacs",
+        "Beekeeper's": "Apicultura",
+        "Prospector's": "Exploració",
+        "Archaeologist's": "Arqueologia"
+    }
+}

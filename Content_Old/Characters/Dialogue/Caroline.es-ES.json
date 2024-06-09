@@ -1,0 +1,57 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Bon dia! El teu nom és @, de la granja. Soc la Caroline.#$e#El meu marit és qui porta la botiga principal aquí. Coneixes a la meva filla, l'Abigail? És la pàl·lida amb el cabell lila.",
+        "Resort_Entering": "En Willy ens ha donat a tots un tros del seu peix socarrat. Encara l'estic intentant mastegar.",
+        "Resort_Leaving": "Aquesta nit dormiré molt bé!$h",
+        "Resort_Shore": "L'aigua està tan calenta aquí comparada amb la de la vall. És molt agradable!",
+        "Resort_Chair": "La %Caroline intenta fer una migdiada.",
+        "Resort_Bar": "Li he demanat a en Gus que em sorprengui, i m'ha preparat un te verd glaçat amb ratlladures de mango. Que amable que és!$h",
+        "Resort": "Ei @. Has vingut per relaxar-te o per treballar?",
+        "Mon": "Tant de bo l'Abby no sigués tanta estona a la seva cambra.",
+        "Mon_inlaw_Abigail": "Ei, @. Estàs gaudint de la vida de casat? Espero que sí!^Ei, @. Estàs gaudint de la vida de casada? Espero que sí!",
+        "Mon8": "#$1 Caroline23#Quan vàrem arribar a Vila Pelicà solia escapolir-me i anar fins la torre del Mag. No ho diguis a en Pierre, té problemes de gelosia.#$e#L'Abigail va néixer si fa no fa un any després que ens mudéssim. Em demano si mai viuré fora de la vall...",
+        "Tue": "He vist raves bords al bosc.#$e#farratjar pot ser una forma divertida de guanyar diners. O pots fer servir el que arramassis com a regals o menjar.",
+        "Wed": "Bon dia. Tens tot el que et cal per la granja?#$e#Si no, potser podríem ajudar-te.#$e#Tenim un munt d'objectes útils.",
+        "Thu": "#$1 Caroline1#Hmmm... Em demano si podria aconseguir que en Pierre fes el sopar avui.#$e#Hmmm... Què faig per sopar avui?#$e#Em sembla que encarregaré quelcom a la taverna.",
+        "Fri": "Quin dia més agradable que fa.#$e#En dies com aquests m'agrada ajudar a l'Evelyn amb els jardins públics.#$e#Ella és molt vigorosa per l'edat que té, però igualment em sembla que aprecia que l'ajudin.",
+        "Sat": "Soc només jo, o l'Abigail té un interès insà per la mort i les afliccions?#$e#Potser soc massa gran com per entendre-ho.",
+        "Sat_inlaw_Abigail": "Els sopars s'han tornat molt més tranquils d'ençà que l'Aigail se'n va anar...#$e#No, no perquè mastegués amb la boca oberta!$h",
+        "Sat2": "L'Abby sempre ha tingut un estrany interès per l'ocultisme. No sé d'on li ve...",
+        "Sat4": "L'Abby sempre ha tingut un estrany interès per l'ocultisme. No sé d'on li ve...",
+        "Sat6": "#$1 Caroline12#Quan ens vam mudar aquí, vaig trigar en acostumar-me a tot plegat... No estava preparada per a una vida 'domèstica'.#$e#En Pierre és una mica tradicional... però és un bon home. Té ambicions, però la família sempre va davant de tot.",
+        "Sun": "Avui només faré que relaxar-me i pensar positivament.#$e#Escolta, tu fas mai algun dia festiu?",
+        "Wed6": "Stardew Valley és bonica, però tant de bo conegués més gent d'aquí.#$e#M'enjoia que ens haguem fet amics.",
+        "summer_Mon": "Tots els dimecres la botiga tanca.#$e#Tingues-ho en compte si creus que pots necessitar quelcom.",
+        "summer_Tue": "Darrerament he començat a veure fruita pel bosc.#$e#Farratjar pot ser una manera divertida de fer calés. O també pots fer servir el que trobis com a menjar o regal.",
+        "summer_Wed": "Bon dia. Tens tot el que necessites per la granja?#$e#Si no, em sembla que podem ajudar-te.#$e#Tenim un gran inventari de productes de gran utilitat.",
+        "summer_Sat": "Sóc jo, o l'Abigail és massa pàl·lida?#$e#Potser em preocupo massa per ella.",
+        "summer_Sat_inlaw_Abigail": "Com està l'Abigail de salut? Sempre ha estat una noia molt pàl·lida. Aviam si la vida a la granja posa una mica de color a les seves galtones.",
+        "summer_Sun": "Avui tot el que faré és relaxar-me i ser positiva.#$e#Tu mai descanses de la feina de la granja?",
+        "summer_Wed6": "El temps corre més i més ràpid quan vas fent-te gran...$s ",
+        "fall_Mon": "La tardor és l'estació preferida de l'Abby. Espero que surti més de la seva habitació ara.",
+        "fall_Mon_inlaw_Abigail": "L'Abby feia classes online quan era aquí, però em sembla que mai li va agradar...#$e#És un esperit lliure, com jo abans de conèixer a en Pierre. Probablement mai havia estat tan bé com ho està a la granja.",
+        "fall_Tue": "Darrerament he començat a veure bolets pel bosc.#$e#Farratjar pot ser una manera divertida de fer calés. O també pots fer servir el que trobis com a menjar o regal.",
+        "fall_Sat": "Soc jo o l'Abigail juga moltíssim a videojocs?#$e#Potser estic una mica antiquada.",
+        "fall_Wed6": "Saps, jo també volia ser pagesa. Bé, més aviat camperola.#$e#De joveneta sempre m'encisaven les pel·lícules sobre el salvatge oest.",
+        "winter_Tue": "L'hivern és força dur, però si tens sort pots trobar arrels.#$e#Farratjar pot ser una manera divertida de fer calés. O també pots fer servir el que trobis com a menjar o regal.",
+        "winter_Fri": "Tot i que fa fred, de tant en tant vaig a fer un cop d'ull a les plantes del poble.#$e#Vull assegurar-me que no es malmeten gaire abans no arribi la primavera.",
+        "winter_Sat": "No creus que seria encara més guapa amb el seu cabell natural?#$e#Solia tenir els cabells castanys clars.",
+        "winter_Wed6": "Què? Tens ganes que arribi el nou any?#$e#Segur que la teva granja serà molt exitosa aquest any.$h"
+    }
+}

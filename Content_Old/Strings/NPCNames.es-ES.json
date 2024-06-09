@@ -1,0 +1,34 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Gunther": "Gunther",
+        "Gil": "Gil",
+        "Morris": "Morris",
+        "Marlon": "Marlon",
+        "Kel": "Kel",
+        "OldMariner": "Vell Mariner",
+        "MisterQi": "Senyor Qi",
+        "Bouncer": "Rebotador",
+        "Henchman": "Guardaespatlles",
+        "Welwick": "Welwick",
+        "Governor": "Governador",
+        "Grandpa": "Avi",
+        "Bear": "Ós",
+        "Birdie": "Ocellota"
+    }
+}

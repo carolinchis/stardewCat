@@ -1,0 +1,68 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "És un plaer conèixer-te. Sóc en Harvey, el metge local.#$e#Faig revisions regulars i procediments mèdics pels habitants de la Vila Pelicà. És una feina que em fa sentir orgullós.#$e#Espero que una trobis una feina igual de gratificant per tu, quan puguis.$h",
+        "Resort_Entering": "A veure... crema solar? Sí...#$b#El barret pel sol? Aquí està...",
+        "Resort_Leaving": "Si et cremes, una mica d'aloe vera ajuda a calmar la pell.",
+        "Resort_Shore": "He recorregut tota la platja recollint vidres. No m'agradaria gens que algú es tallés un peu!",
+        "Resort_Chair": "És genial tenir una oportunitat per a relaxar-se de tant en tant.#$b#La part més difícil és oblidar-te dels teus problemes...$s",
+        "Resort_Bar": "És important mantenir-se hidratat en un ambient tan calorós com aquest. Li preguntaré a en Gus si té una mica d'aigua de coco!$h",
+        "Resort": "T'explicaré un petit secret... Només sé nedar amb flotador.$s",
+        "danceRejection": "Oh! Em sap greu... Jo, ah... havia pensat de demanar-li a algú altre.$s",
+        "divorced": "Jo... No puc ni mirar-te. Si us plau, estalvia'm el patiment.$s",
+        "breakUp": "...T...Tu...?$s#$b#*gulp*... Cr... Crec que m'estic posant malalt...$s",
+        "dumped_Guys": "Estic ocupat amb la feina. No puc parlar-te.$s",
+        "secondChance_Guys": "Et vull de nou a la meva vida, @. Estic disposat a oblidar tot el que va passar.$s",
+        "Mon": "Venem alguns medicaments sense recepta a la botiga... Pots venir quan vulguis, si no et sents bé.#$b#Sóc conscient que ser pagès una feina una mica esgotadora... no t'excedeixis!",
+        "Mon2": "Em sento responsable de la salut de tota la meva comunitat... És una mica estressant.#$e#És una comunitat un petiteta, però em sento afortunat de poder construir una bona relació amb els meus pacients.",
+        "Mon6": "M'agradaria quedar-me aquí un temps. Finalment m'estic començant a sentir part de la comunitat.#$e#És agradable sentir que ets útil.",
+        "Mon10": "Oh! Hola, @.$l#$e#Tens... alguna pregunta sobre medicina?$l",
+        "Tue": "Ets lliure de venir al meu despatx si et sents malalt.#$e#Encara que ets jove. Segurament romandaràs sa sense cuidar-te gaire.$h",
+        "Tue8": "No facis més feina de la que et pertoca, @. T'ho diu el Doctor!#$e#La teva salut m'importa.$l",
+        "Wed4": "M'agradaria conèixer-te millor, @. Deixant de banda la relació metge-pacient.",
+        "Wed6": "És agradable tenir un amic al poblet.$h",
+        "Wed8": "Tens un aspecte saludable. Enhorabona.$h",
+        "Wed": "Recorda de tapar-te la boca quan hagis d'esternudar.#$e#Després assegura't de rentar-te les mans.",
+        "Thu8": "És molta feina ser metge. No menjo tan bé com hauria.$s#$e#Si no visqués sol seria més fàcil.$l",
+        "Thu": "L'alimentació és important, així que procura menjar bé. Intenta augmentar la teva ingesta vegetal!#$e#El menjar fet a casa és el millor. Saps cuinar?",
+        "Fri": "Fa un dia preciós, no creus?#$e#Tant de bo tingués menys feina.$s",
+        "Fri4": "Si vols venir a passar l'estona al meu apartament, per mi encantat. Visc a prop la clinica.",
+        "Fri10": "Vine aquí si algún cop necessites una revisió confidencial.$l",
+        "Sat": "Puc fer quelcom per tu?#$e#Ves amb compte.",
+        "Sat4": "Vaig vindre aquí perquè m'agradava l'ambient d'un poblat petit, i el potencial d'una aproximació holística al tractament dels pacients.#$e#Cada cop m'agrada més.$h",
+        "Sat8": "*Sospir*... Començo a sentir-me una mica vell...#$e#A mesura que et vas fent gran, cada cop estàs més soterrat en records. Pot arribar a ser aclaparador.$s#$e#Encara que crec que em podré mantenir jove amb tu a prop.$l",
+        "Sun": "Hmm... Estic lluitant per seguir endavant. No tinc prous pacients.#$e#Suposo que hauria d'intentar captar pacients dels pobles de la rodalia...",
+        "Sun6": "Imagina tenir tota la vida del pacient a les teves mans, i no poder mantenir-lo viu... és quelcom amb el que hauras de conviure per sempre.$s",
+        "event_george1": "Gràcies, @.$h#$b#Ja saps, George, tan sols tracto d'ajudar-te.",
+        "event_george2": "*Sospir*$s#$b#Mira, George. Si vols seguir comportant-te així, hauré de parlar amb la teva dona. I no crec que a ella li agradi.",
+        "event_aerobics1": "Gràcies, @. Ho aprecio.$h",
+        "event_aerobics2": "*Sospir*... barroer.$s",
+        "event_heart1": "Oh! els hospitals et crispen els nervis, no?#$b#Tan sols intenta-ho, i relaxa't. Soc aquí per ajudar.$h",
+        "event_heart2": "D'acord. Té sentit.",
+        "event_heart3": "Um. D'acord... Si tu ho dius.$s",
+        "event_grave1": "...Tens raó.#$b#...Gràcies.",
+        "event_grave2": "*Suspir*$s",
+        "summer_Mon": "Està bé exposar-se a una dosi moderada de llum solar. Tan sols mira de no cremar-te.#$e#D'acord. Cuida't! Seguiex sa!",
+        "summer_Thu": "L'exercici és important, però no t'esgotis massa o acabaras visitant la clinica!#$e#Assegura't d'escoltar el teu cos.",
+        "summer_Fri": "La gent no sol posar-se malalta durant l'estiu. Està bé, però això es tradueix en menys negoci per mi.",
+        "fall_Fri": "Has estat anant a les mines, @?#$e#És un lloc perillós. No t'ho recomano.",
+        "fall_Sat": "Menjant certs aliments rendiràs millor.#$e#Un esmorzar de pagès et donarà l'energia necessaria per regar i collir les verdures i demés!",
+        "winter_Wed": "És temporada de grip, així que el millor és ser encara més curós.#$e#Assegurat de rentar-te amb freqüència les mans.",
+        "winter_Sun": "No m'agrada dir això, però faig més diners durant la temporada de grip.#$e#Suposo que si la gent ja no es posés malalta, jo no tindria feina.#$e#Però no t'equivoquis! Vull que la gent romani sana... de veritat!"
+    }
+}

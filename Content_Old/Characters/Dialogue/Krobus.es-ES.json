@@ -1,0 +1,38 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "4": "...Has trobat altres com jo a les mines? Em sap greu si t'han atacat. Saps, hem après a tenir por dels humans... hem tingut massa... trobades desagradables.#$e#No has... mort cap dels meus amics, oi?",
+        "8": "Recentment va acabar una guerra de 1000 anys entre el meu poble i els nans. Encara hi ha molt ressentiment a tots dos bàndols.",
+        "15": "Si us plau, mantingues la meva posició en secret. Si els nans em descobreixen, segurament enviaran un assassí.",
+        "Fri": "...",
+        "reject_868": "Oh, un pedaç àrtic! És un objecte molt rar.#$b#Si jo fos tu, li ensenyaria al bruixot!",
+        "Wed": "Trobo coses per aquí i les venc. T'interessa alguna?",
+        "Wed6": "Si pares l'orella a les canonades adequades pots escoltar el que passa a qualsevol casa del voltant.#$b#És clar que jo mai escoltaria res d'amagat!$3",
+        "Thu": "Si us plau no li expliquis a ningú que sóc aquí.#$b#Els humans tendeixen a voler destruir les coses que no entenen.",
+        "Thu6": "Si us plau no li diguis a ningú que sóc aquí.#$b#La majoria dels humans tenen por de nosaltres, el poble de les ombres... potser per una bona raó.$s#$b#Però igualment, si la gent de la vila descobreix que sóc aquí, deixaré d'estar segur.",
+        "Tue": "Sóc massa sensible a la llum del sol per a sortir la majoria de dies.#$b#El clima aquí és perfecte.#$e#Que vols comprar res?",
+        "Mon": "Si us plau no t'espantis. Sóc diferent dels altres.#$e#He invertit molt del meu temps observant els humans. Sé que us agrada comprar. Vols veure el que tinc a la venda?",
+        "Mon2": "Ja tornes? Suposo que això concorda amb la meva teoria del comportament humà.",
+        "Mon6": "'Krobus' vol dir 'creua-ponts' en la nostra llengua.",
+        "Sat": "Els divendres em mantinc en silenci com a senyal de la meva devoció a Yoba.",
+        "Sun": "...Em sap greu, encara vull ser una mica prudent amb els humans. Però sempre pots venir a comprar a la meva botiga.",
+        "Sun4": "No ets com els altres humans, oi?",
+        "Sun8": "Has obert els meus ulls al món dels humans. Ho aprecio molt.",
+        "divorced": "..."
+    }
+}

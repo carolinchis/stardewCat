@@ -1,0 +1,42 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Bookcase_Menu": "Quin llibre vols llegir?",
+        "Bookcase_Basics": "Bases",
+        "Bookcase_MakingFriends": "Fer Amics",
+        "Bookcase_Improvements": "Millores",
+        "TV_Menu": "Selecciona un programa per veure:",
+        "TV_Weather": "El Temps",
+        "AncientFruitPot": "Les seves arrels són molt grosses... no seria feliç aquí.",
+        "TV_Fortune": "Endevinadora",
+        "CaskNoCellar": "Només funciona al Celler.",
+        "DarkTalisman": "Talismà Fosc",
+        "MagicInk": "Tinta Màgica",
+        "MagnifyingGlass": "Lupa",
+        "BearPaw": "Coneixement de l'Ós",
+        "SpringOnionBugs": "Domini de la Ceba Tendra",
+        "SpecialCharm": "Talismà Especial",
+        "CatalogueDescription": "Proporciona accés il·limitat a tots els papers de paret i de sòl... des de la comoditat de la teva casa!",
+        "FurnitureCatalogueDescription": "Proporciona accés il·limitat a gairebé tots els mobles... des de la comoditat de la teva casa!",
+        "DarkTalismanDescription": "Has trobat el {0}! Està tot llefiscós...",
+        "MagicInkDescription": "Has trobat la {0} perduda del bruixot! Hauré de tornar-li.",
+        "MagnifyingGlassDescription": "Has obtingut la {0}! Ara tens l'habilitat de trobar 'Notes Secretes'. Aquestes notes tenen informació molt valuosa i les pots revisar des del menú de col·lecció.",
+        "SpecialCharmDescription": "Has obtingut el {0}! Sents com una aura de bona sort t'envolta (s'ha millorat la sort permanentment)!",
+        "ParsnipSeedPackage_SomeoneElse": "Aquest paquet no és per tu."
+    }
+}

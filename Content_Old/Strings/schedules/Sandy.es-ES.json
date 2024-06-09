@@ -1,0 +1,26 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Sandy_Birthday_Greeting": "Oh, Emily! Esperava que apareguessis!$h#$b#Em sentia una mica sola aquest matí.#$e#Però m'alegra que hagis vingut!$h",
+        "Sandy_Birthday_Hangout": "Quin temps fa ara a la vall?#$e#Les flors d'allà fan una olor genial.$h",
+        "Sandy_Birthday_Lake": "Sempre fa una mica més de fresca vora el llac.#$e#És bo sortir de casa de tant en tant!$h",
+        "Sandy_Birthday_Bones": "És estrany, oi?",
+        "Sandy_Birthday_Camel": "Crec que ven productes poc comuns.",
+        "Sandy_Birthday_Bye": "M'ho he passa't molt bé.$h#$b#Gràcies per considerar-me la teva amiga...$h#$e#Torna quan vulguis!$h"
+    }
+}

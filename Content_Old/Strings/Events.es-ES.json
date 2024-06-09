@@ -1,0 +1,49 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "BirthMessage_Adoption": "Durant la nit, l'agència d'adopció us ha deixat el vostre nadó {0}.",
+        "BirthMessage_PlayerMother": "Durant la nit, has parit un nadó {0}.",
+        "BirthMessage_SpouseMother": "Durant la nit, {1} ha parit un nadó {0}.",
+        "BirthMessage_SpouseNaming_Male": "{0} li posarà nom al vostre nen.",
+        "BirthMessage_SpouseNaming_Female": "{0} li posarà nom a la vostre nena.",
+        "BabyNamingTitle_Male": "Quin nom li posem?",
+        "BabyNamingTitle_Female": "Quin nom li posem?",
+        "HaveBabyQuestion": "Vols tenir un fill, {0}?",
+        "HaveBabyQuestion_Adoption": "Vols adoptar un nadó, {0}?",
+        "HaveBabyAnswer_Yes": "Sí",
+        "HaveBabyAnswer_No": "Ara no...",
+        "HavePlayerBabyQuestion": "Vols tenir un fill amb {0}?",
+        "HavePlayerBabyQuestion_Adoption": "Vols adoptar un nadó amb {0}?",
+        "SpouseFlowerDanceAccept_Shane": "Ballar? Ai carai. D'acord... però abans deixa que em prengui això primer...",
+        "SpouseFlowerDanceAccept_Emily": "Oi tant, amor meu. Feia temps que esperava això!$h",
+        "AnimalBirth": "Durant la nit, {0} ha parit un nadó {1}.",
+        "AnimalNamingTitle": "Posa nom al teu nadó {0}:",
+        "SoundInTheNight_UFO": "S'ha sentit un soroll estrany durant la nit...",
+        "SoundInTheNight_Meteorite": "S'ha sentit una explosió aquesta nit...",
+        "SoundInTheNight_Earthquake": "Hi ha hagut un terratrèmol aquesta nit.",
+        "BeachNightMarket_NowOpen": "Ha obert el Mercat Nocturn.",
+        "Maru_comet5": "Estic contenta de viure en aquest món vibrant amb tu!",
+        "Maru_comet4": "Tan buit, tan solitari...",
+        "Maru_comet3": "Aquí, fugaçment en el seu viatge infinit.",
+        "Maru_comet2": "Una estranya meravella del cosmos...",
+        "Maru_comet1": "És bonic, oi?",
+        "ElliottBook_mystery": "Torre Blava",
+        "ElliottBook_romance": "Estació Camellia",
+        "ElliottBook_default": "L'Ascens i Descens del Planeta Yazzo"
+    }
+}

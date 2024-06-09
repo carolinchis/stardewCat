@@ -1,0 +1,29 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "summer_4.000": "Ostres... gairebé m'oblido. Avui he d'anar a veure el Doctor Harvey.",
+        "Fri.000": "Potser he de deixar guanyar a la Sam per una vegada? ...na.$h",
+        "marriage_Fri.001": "Encara conservo les meves habilitats... m'és igual de senzill guanyar a la Sam.$h",
+        "summer_4.001": "Que fas aquí? Podria haver estat despullat!$a",
+        "marriage_Mon.001": "La cara de la meva mare s'ha il·luminat en veure'm. Es mereix aquesta felicitat.$7",
+        "marriage_Fri.000": "He quedat amb els meus amics aquesta nit. Tornaré a casa més tard.",
+        "marriage_Mon.000": "Estar en aquest lloc em fa venir ganes de fumar... però estic decidit a deixar de fumar.",
+        "rain.000": "L'oceà es gaudeix més tot sol... no creus?",
+        "winter_16.000": "Em sento més relaxat a la nit... potser m'animo a comprar alguna cosa i tot."
+    }
+}

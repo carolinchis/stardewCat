@@ -1,0 +1,28 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "marriage_Mon.002": "Tant de bo la Penny decideixi casar-se algun dia.",
+        "winter_16.000": "Apa, la tecnologia d'aquesta andròmina és increïble!",
+        "marriageJob.000": "Sóc a la feina, amor! No deixis que ho vegi el doctor.",
+        "marriageJob.002": "Gairebé he acabat la jornada...",
+        "marriage_Mon.001": "El pare està progressant molt amb el seu experiment.",
+        "summer.000": "És difícil imaginar-se la veritable escala de l'univers.$8",
+        "marriage_Mon.000": "Ei! Sembla que la mare se'n surt prou bé sense la meva ajuda. És una dona lluitadora.",
+        "marriageJob.001": "M'agrada que vinguis a visitar-me.$h"
+    }
+}

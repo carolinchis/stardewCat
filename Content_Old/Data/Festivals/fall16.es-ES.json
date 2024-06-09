@@ -1,0 +1,67 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "name": "Fira de Stardew Valley",
+        "conditions": "Town/900 1500",
+        "set-up": "fallFest/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Fair/viewport -1000 -1000/loadActors Set-Up/advancedMove Vincent true -3 0 2 5000 3 0 2 5000/advancedMove Jas true 2 0 4 5000 -2 0 4 5000/advancedMove Marnie true -2 0 4 5000 2 0 2 5000/advancedMove Abigail true 4 6000 5 0 0 3 2 6000 0 -3 -5 0/advancedMove Robin true 0 1 1 5000 0 -2 3 5000 0 1 1 5000/animate Sebastian false true 200 16 16 16 16 16 16 16 16 16 16 16 16 17 18 19 20 21 21 21 21 20 22 22 23/addTemporaryActor BabyPig 32 32 65 68 2 false Animal/addTemporaryActor Pig 32 32 65 70 3 false Animal/addTemporaryActor White_Chicken 16 16 59 67 2 false Animal/addTemporaryActor Brown_Chicken 16 16 61 67 2 false Animal/addTemporaryActor White_Cow 32 32 59 72 0 false Animal/addTemporaryActor BabyWhite_Cow 32 32 61 72 1 false Animal/advancedMove BabyPig true 0 1 3 5000 0 -1 0 7000/advancedMove Pig true 3 5000 0 1 1 5000 0 -1 3 5000/advancedMove White_Chicken true 1 0 2 7000 -1 0 2 10000/animate Brown_Chicken false true 500 16 17/viewport 22 22 true unfreeze/globalFadeToClear/pause 2000/playerControl fair",
+        "Abigail_spouse": "Vaig superar tots aquests jocs l'any passat!$h",
+        "Leah_spouse": "L'any passat vaig aprendre totes les tècniques de Robin, però ella sempre va un pas per davant.",
+        "Maru_spouse": "mumph... Aquesta és la meva única oportunitat d'atipar-me d'entrepans barbacoa.",
+        "Penny_spouse": "Espero que guanyem el concurs de granges!",
+        "Haley_spouse": "T'has recordat de portar coses bones per al concurs de granja? Espero que guanyem aquest any.",
+        "Sebastian_spouse": "Ei, @. m'estic ficant al dia amb Sam. Vés tirant i passa-t'ho bé.",
+        "Sam_spouse": "Sebastian és el mateix de sempre. Et diverteixes al festival?",
+        "Alex_spouse": "M'estic posant al dia amb alguns vells amics... vés tirant i passa-t'ho bé.",
+        "Harvey_spouse": "Esperaré aquí fins que estiguis llest per tornar a casa...",
+        "Elliott_spouse": "L'aroma m'ha portat aquí, tot i que ha estat cosa de la salsa la que ha fet que em quedi aquí... *clapoteig*$s",
+        "Abigail": "Ja he completat tots els jocs... i ara què?",
+        "Robin": "La fusteria és una antiga tradició de la qual estic molt orgullós.$h",
+        "Demetrius": "La Robin treballa molt en les seves coses de fusteria... mereix un petit reconeixement de tant en tant.",
+        "Maru": "*slurp* mmm... aquesta salsa barbacoa és increïble.$h",
+        "Sebastian": "Avui no em trobo gaire bé... descansaré aquí una estoneta.",
+        "Pierre": "La meva botiga recull els productes de millor qualitat de tota la vall. Si us plau, inspecciona de prop el meu taulell de granges i comprova-ho!",
+        "Caroline": "En Pierre es pren molt seriosament el seu taulell de granja. Fa setmanes que guarda els productes més macos en preparació.#$e#Ei, moltíssima sort si decideixes participar!",
+        "Linus": "Aquests animals mai jutgen les persones pel seu aspecte. No es pot dir el mateix dels humans.",
+        "Alex": "He jugat al joc de 'Força' massa vegades i ara em noto els braços com si fossin de goma.",
+        "George": "Hmm... filet de gall d'indi fumat? Suposo que aquest festival no està malament.$h",
+        "Evelyn": "M'agradaria que en Gus inclogués una opció vegetariana. Alguns pinxos de carabassó, potser?",
+        "Lewis": "Bé doncs, @, ha arribat el gran dia... El nostre festival més important de l'any, la 'Fira de Stardew Valley'.#$b#Si vols participar amb el teu propi taulell de granja, t'he deixat un espai buit. Si us plau, quan ho tinguis tot preparat avisem i començarem a jutjar-ho.",
+        "Clint": "De vegades em queixo de la meva feina, però em sento orgullós del meu treball.#$b#Aquestes són algunes de les meves peces més importants. Espero que t'agradin.",
+        "Emily": "Ja ho saps, hauria sigut un pallasso força bo. Crec que vaig deixar passar una bona oportunitat.",
+        "Penny": "He guanyat a la ruleta deu vegades seguides i ara l’home no em deixa jugar més...$s",
+        "Pam": "Millor que t'afanyis, jove... Abans que la vella Pam, aquí present, pesqui tota la tenda! Hehe.$h",
+        "Haley": "Heu estat a l’endevina? Ha instal·lat el seu estand al cementiri.#$e#Ja l'he anat a veure... m'ha dit una cosa... interessant. *riure*$h",
+        "Jodi": "No sembla gaire feliç... Suposo que l’alcalde Lewis va haver de retallar els costos amb un pallasso barat, aquest any.",
+        "Kent": "Estic esperant que aquest pallasso comenci a fer alguna cosa divertida.#$e#Bastant decebedor.",
+        "Sam": "Ei @. T'ho estàs passant bé?#$e#La parada del tirador és molt divertida, i si se't dóna bé, pots aconseguir moltes fitxes estrella.",
+        "Leah": "Admiro molt les habilitats de fusteria de la Robin. Utilitzo moltes de les mateixes tècniques en la meva pròpia línia de treball.",
+        "Shane": "Tots aquests animals són simpàtics i els agrada que els hi facin massatges.",
+        "Marnie": "Ho he intentat, però el meu taulell és bastant normalet en comparació amb el d'en Pierre.$s#$e#Bé, potser els jutges em donaran punts de bonificació pel formatge gegant.",
+        "Elliott": "Estic intentant que en Gus m'expliqui la seva recepta de salsa, però no me'n surto.",
+        "Gus": "Menja tant com vulguis! Avui és tot gratuït...  paga l'alcalde Lewis.$h#$e#Oh! Assegura-t'en de provar una mica de la meva salsa secreta.",
+        "Dwarf": "Dius que allà plou? *sorpresa*#$e#Pluja... És gairebé mític per a nosaltres. Alguns de nosaltres vivim tota la vida sense haver-la experimentat mai.",
+        "Wizard": "Welwick i jo ens coneixem des de fa temps... és una divinadora notable i una bona amiga.#$e#...#$e#Aquest pallasso... el conec d’alguna cosa.#$e#Era l’escola de la il·lusió? O potser el Carnaval dels Secrets? Hmm...",
+        "Harvey": "Justament allà, en Gus està fent un munt de costelles de porc... Ecs!.$s#$e#He de meditar una estona...$11",
+        "Sandy": "He sentit que plou a casa. Per això has vingut aquí?$h#$e#De fet, trobo a faltar la pluja...$s",
+        "Jas": "Ow! A hen pecked my little finger!$u",
+        "Vincent": "Moooo!",
+        "Marlon": "Les fulles d'en Clint s'afilen més cada any.#$e#I també els seus preus...",
+        "Willy": "Estàs muntant un taulell de granja, @? És la teva oportunitat de mostrar tots els bons productes de %farm!",
+        "Leo": "Haha! Mai havia vist res semblant...$h"
+    }
+}

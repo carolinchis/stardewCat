@@ -1,0 +1,45 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Mon": "Hola, pagès.^Hola, pagesa.#$e#He estat fora tant de temps... Em sento com un estrany.",
+        "Resort_Entering": "Hola, @. M'alegro de veure't.",
+        "Resort_Leaving": "Hora de tornar cap a casa.",
+        "Resort_Shore": "Estant en aquesta platja... Noto una estranya sensació de pau.$h#$e#L'oceà és una cosa molt especial.",
+        "Resort_Chair": "Aquest és un molt bon lloc per unir llaços familiars. T'agraeixo molt que el restauressis.",
+        "Resort_Bar": "Només vull una mica d'aigua.",
+        "Resort": "El viatge amb el vaixell ha estat divertit. Fins i tot he pogut ajudar a navegar amb els meus coneixements de nàutica.$h",
+        "MovieInvitation": "Em... d'acord. Gràcies. Ens veiem allà doncs.$h",
+        "accept_864": "...!$4#$b#...D'on t'ho has tret això?$4#$b#...$5#$b#Aquest home... Vam combatre junts a la guerra, @. Era com un germà per mi. #$b#Però... només va tornar un dels dos.$5#$b#Tot i això, mai va perdre el coratge. Fins i tot quan va estar cara a cara amb la mort. Un veritable heroi... No l'oblidaré mai.#$b#Gràcies per portar-m'ho... Significa molt per mi.#$b#Té, queda't amb això. Ha estat acumulant pols durant anys i mai l'hem fet servir.",
+        "reject_865": "Síp... L'han segellat molt bé, o sigui que encara deu conservar bona part del sabor.",
+        "Mon4": "No sé si mai m'acostumaré a estar a casa de nou.#$e#La tranquil·litat de la vila sembla una màscara. Però probablement només és cosa meva.",
+        "Tue": "Les coses no han canviat gaire des que vaig marxar.#$e#Bé, amb l'excepció que tu ets aquí.",
+        "Tue2": "Les coses no han canviat gaire des que vaig marxar.#$e#Amb l'excepció que hi ha una cara nova a la vila.$h",
+        "Wed6": "...He perdut un munt d'amics en combat.$s#$e#El més trist és que ni tan sols puc recordar les seves cares.#$e#...",
+        "Wed": "Portes aquí un bon temps, no? La teva granja deu anar prou bé.",
+        "Thu6": "#$1 Kent1#Porto despert des de les quatre de la matinada... de vegades em pregunto si tornaré a una rutina normal.$k#$e#En Sam ha crescut molt des que vaig marxar. Ara és un home.#$e#Tant de bo hagués pogut estar aquí amb ell.$s",
+        "Thu": "Ja ets amic del meu fill?^Ja ets amiga del meu fill?#$e#Potser el coneixes millor que jo i tot...$s",
+        "Thu_inlaw_Sam": "Ei, @. Gaudeixes de la vida de matrimoni?",
+        "Fri": "Avui sembla un bon dia per anar a pescar, no creus?",
+        "Sat": "La Jodi m'ha explicat que t'has integrat molt bé a la nostra comunitat. Me n'alegro molt.",
+        "Sat8": "Tinc problemes per a dormir, perdona'm si semblo cansat.#$e#Segur que ho pots entendre.",
+        "Sun": "No sé què fer amb mi mateix ara que he tornat.#$e#Estic acostumat a tenir un dia més estructurat.",
+        "event_popcorn1": "Silenci! Deixa d'intentar tornar-me en contra de la meva dona.$u",
+        "event_popcorn2": "...$s#$b#Tens tota la raó, @.$s",
+        "event_popcorn3": "No em menteixis! El que més odio en aquest món són les mentides!$u"
+    }
+}

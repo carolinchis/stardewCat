@@ -1,0 +1,53 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Silo": "390 100 330 10 334 5/3/3/-1/-1/-2/-1/null/Sitja/Et permet emmagatzemar l'herba que talles per donar menjar al bestiar./Buildings/none/48/128/-1/null/Farm/100/false",
+        "Mill": "388 150 390 50 428 4/4/2/-1/-1/-2/-1/null/Molí/Et permet fer farina amb blat i sucre de remolatxa./Buildings/none/64/128/-1/null/Farm/2500/false",
+        "Earth Obelisk": "337 10 86 10/3/2/-1/-1/-2/-1/null/Obelisc Terrestre/Et teleporta a les muntanyes./Buildings/none/48/128/-1/null/Farm/1000000/true",
+        "Water Obelisk": "337 5 372 10 393 10/3/2/-1/-1/-2/-1/null/Obelisc Aquàtic/Et teleporta a la platja./Buildings/none/48/128/-1/null/Farm/1000000/true",
+        "Desert Obelisk": "337 20 88 10 90 10/3/2/-1/-1/-2/-1/null/Obelisc Desèrtic/Et teleporta al desert./Buildings/none/48/128/-1/null/Farm/1000000/true",
+        "Island Obelisk": "337 10 852 10 91 10/3/2/-1/-1/-2/-1/null/Obelisc Illenc/Et teleporta a l'illa Gingebre./Buildings/none/48/128/-1/null/Farm/1000000/true",
+        "Junimo Hut": "390 200 268 9 771 100/3/2/-1/-1/-2/-1/null/Barraca Junimo/Els Junimo colliran el que hi hagi al voltant de la barraca per tu./Buildings/none/48/64/-1/null/Farm/20000/true",
+        "Gold Clock": "/3/2/-1/-1/-2/-1/null/Rellotge Daurat/Impedeix que apareguin restes a la teva granja. Tampoc es deterioraran les tanques./Buildings/none/48/80/-1/null/Farm/10000000/true",
+        "Stable": "709 100 335 5/4/2/-1/-1/-2/-1/null/Cavallerissa/Et permet tenir un cavall per a muntar-lo. Inclou cavall./Buildings/none/64/96/-1/null/Farm/10000/false",
+        "Well": "390 75/3/3/-1/-1/-1/-1/null/Pou/Un bon lloc per a omplir la teva regadora./Buildings/none/32/32/-1/null/Farm/1000/false",
+        "Shipping Bin": "388 150/2/1/-1/-1/-1/-1/null/Caixa d'enviaments/Posa objectes a dins per vendre'ls durant la nit./Buildings/none/48/80/-1/null/Farm/250/false/0",
+        "Coop": "388 300 390 100/6/3/1/2/2/2/Coop/Galliner/Hi caben 4 animals petits./Buildings/none/64/96/4/null/Farm/4000/false",
+        "Big Coop": "388 400 390 150/6/3/1/2/2/2/Coop2/Galliner Gros/Hi caben 8 animals petits. Ve amb una incubadora. També podràs mantenir-hi ànecs./Upgrades/Coop/64/96/8/null/Farm/10000/false",
+        "Deluxe Coop": "388 500 390 200/6/3/1/2/2/2/Coop3/Galliner de luxe/Hi caben 12 animals petits. Ve amb un sistema d'alimentació automàtic. També podràs mantenir-hi conills./Upgrades/Big Coop/64/96/12/null/Farm/20000/false",
+        "Barn": "388 350 390 150/7/4/1/3/3/3/Barn/Graner/Hi caben 4 animals grossos./Buildings/none/96/96/4/null/Farm/6000/false",
+        "Big Barn": "388 450 390 200/7/4/1/3/4/3/Barn2/Graner Gros/Hi caben 8 animals grossos. Permet als animals donar a llum. També podràs mantenir-hi cabres./Upgrades/Barn/96/96/8/null/Farm/12000/false",
+        "Deluxe Barn": "388 550 390 300/7/4/1/3/4/3/Barn3/Graner de luxe/Hi caben 12 animals grossos. Ve amb un sistema d'alimentació automàtic. També podràs mantenir-hi ovelles i porcs./Upgrades/Big Barn/96/96/12/null/Farm/25000/false",
+        "Slime Hutch": "390 500 338 10 337 1/11/6/5/5/-1/-1/SlimeHutch/Viver de llimacs/Cria fins a 20 llimacs. Omple els abeuradors d'aigua i els llimacs generaran boles de llim./Buildings/none/96/96/20/null/Farm/10000/false",
+        "Shed": "388 300/7/3/3/2/-1/-1/Shed/Cobert/Un edifici buit. Omple'l amb el que vulguis! L'interior es pot decorar./Buildings/none/96/96/20/null/Farm/15000/false",
+        "Big Shed": "388 550 390 300/7/3/3/2/-1/-1/Shed2/Cobert Gros/Dobla la mida del cobert. L'interior es pot decorar./Upgrades/Shed/96/96/20/null/Farm/20000/false",
+        "Stone Cabin": "390 10/5/3/2/1/-1/-1/Cabin/Cabanya/Una casa per un amic! Subvencionada pel fons d'agricultura de la vila./Buildings/none/96/96/20/null/Farm/100/false/0",
+        "Plank Cabin": "388 5 771 10/5/3/2/1/-1/-1/Cabin/Cabanya/Una casa per un amic! Subvencionada pel fons d'agricultura de la vila./Buildings/none/96/96/20/null/Farm/100/false/0",
+        "Log Cabin": "388 10/5/3/2/1/-1/-1/Cabin/Cabanya/Una casa per un amic! Subvencionada pel fons d'agricultura de la vila./Buildings/none/96/96/20/null/Farm/100/false/0",
+        "Greenhouse": "/7/6/3/5/-1/-1/null/Hivernacle/Un lloc on fer créixer plantes de qualsevol estació durant tot l'any!/Buildings/none/64/96/-1/null/Farm/-1/false/0/2 6 3 6 4 6 2 7 3 7 4 7",
+        "Mine Elevator": "388 30 390 15 334 5/4/2/1/1/-1/-1/null/Ascensor de Mina/Viatja ràpidament entre qualsevol ascensor de mina que construeixis. Només pots construir-ne un per cada pis de la mina./Buildings/none/64/64/-1/MineElevator/UndergroundMine",
+        "Fish Pond": "390 200 152 5 153 5/5/5/-1/-1/-2/-1/null/Estany/Cria peixos i obtindràs el que produeixin. Els peixos es multipliquen amb el temps./Buildings/none/76/78/10/null/Farm/5000/false/2",
+        "Chicken": "animal/500/64/64/Gallina/Pon ous deliciosos. N'hi ha de dos colors diferents./null/Farm",
+        "Duck": "animal/1000/64/64/Ànec/Pon ous i de vegades deixa caure plomes./null/Farm",
+        "Rabbit": "animal/1500/64/64/Conill/El seu pèl és una llana molt valuosa!/null/Farm",
+        "Cow": "animal/1000/64/96/Vaca/Proporciona llet rica i cremosa./null/Farm",
+        "Sheep": "animal/1500/64/96/Ovella/Pots esquilar-la per obtenir llana./null/Farm",
+        "Goat": "animal/1500/64/96/Cabra/Proporciona una apetitosa llet de cabra!/null/Farm",
+        "Pig": "animal/2000/64/96/Porc/Aquests porcs estan ensinistrats específicament per cercar tòfones./null/Farm"
+    }
+}

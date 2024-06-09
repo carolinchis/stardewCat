@@ -1,0 +1,34 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Ah, si. Vaig predir la teva arribada fa molt temps, jove @.#$e#Tot i això, el teu destí sempre està a les teves mans.",
+        "accept_868": "Ah... un pedaç àrtic.#$b#Una substància d'allò més poderosa, i, a més, imbuïda amb l'element del gel.#$b#Si no t'importa, me'l quedaré.#$b#...#$b#...Erm...Encara ets aquí. Oh. Vols alguna cosa?#$b#... Té, això.",
+        "MovieInvitation": "Hmm... suposo que podría acompanyar-te... sí. Quan hagis arribat, apareixeré. A reveure.",
+        "Mon": "Ah sí, he vist moltes coses del teu futur, jove @.#$e#Si t'ho digués podrien haver-hi consequències desastroses.",
+        "Tue": "Si no tens res important a dir-me, deixa'm fer. Estic molt enfeinat.",
+        "Tue4": "Confio en tu. He decidit que et deixaré entrar al meu soterrani. Tracta tot el que hi trobis amb cura.",
+        "Wed": "Porta anys d'estudi entendre la llengua dels elementals.#$e#Parlar la seva llengua requereix tota una vida d'esforç i devoció.#$e#I ara, si m'ho permets...",
+        "Thu": "Hi ha molts misteris entre nosaltres. Has de ser pacient si vols descobrir-los.",
+        "Thu10": "No li has de dir a ningú... però crec que una noia de la vila és filla meva...#$e#Potser és un error... és rar, però pot passar.",
+        "Fri": "Crec que els vilatans em tenen por.#$e#És una llàstima però suposo que és humà tenir por d'allò desconegut.",
+        "Fri6": "Fa molts anys estava casat. Després de la separació la meva ex-dona va començar a volar per tot el país, maleint tot el que veiés.#$e#No és una manera gaire madura d'expressar la teva frustració.",
+        "Sat": "Vés amb compte, estàs just a sobre d'un camp màgic molt poderòs.#$e#He fet casa meva just aquí a propòsit, saps.",
+        "Sat2": "Has progressat amb els esperits del bosc?",
+        "Sun": "De vegades observo els vilatans en secret.#$e#M'agradaria trobar un aprenent. Algun dia marxaré d'aquest pla mortal però els meus propòsits arcans han de continuar."
+    }
+}

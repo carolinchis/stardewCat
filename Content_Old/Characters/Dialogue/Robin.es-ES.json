@@ -1,0 +1,58 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Ja has conegut a tothom a la vila? És una feina esgotadora, eh.",
+        "Resort": "Alça, mira aquestes estructures!$h#$b#Es veu d'una hora lluny que les ha fet un mestre constructor. Estic bocabadada!",
+        "Resort_Leaving": "M'ho he passat d'allò més bé!$h",
+        "Resort_Shore": "Ei, guaita! Es pot veure una altra illa des d'aquí.",
+        "Resort_Chair": "Ei @. Ja saps, estava pensant en com de lluny ha arribat la vila des que vas arribar-hi.#$b#Hauries de sentir-te orgullós per tot el que has fet!$h^Hauries de sentir-te orgullosa per tot el que has fet!$h",
+        "Resort_Bar": "És tan relaxant...",
+        "reject_865": "Sal per les verdures? Sona bé, però no la necessito.",
+        "reject_866": "Hmm... quan penso en flors, penso en l'Evelyn. Potser li hauríem d'ensenyar?",
+        "pamHouseUpgrade": "El nostre pla ha funcionat bastant bé, no creus? La Pam i la Penny estan molt contentes.",
+        "pamHouseUpgradeAnonymous": "El nostre pla ha funcionat bastant bé, no creus? La Pam i la Penny estan molt contentes.",
+        "MovieInvitation": "Ooh... dos tiquets per la pel·lícula d'avui, eh? Sona bé! Ens veiem allà doncs.$h",
+        "cc_Bridge": "Ei! Vaig sentir uns sorolls estranys ahir a la nit i quan m'he llevat aquest matí he vist el pont a la pedrera completament reparat!#$b#És un miracle de la fusteria!",
+        "cc_Complete": "Vaig saber-ho de bon començament, @, quan vas baixar d'aquell bus... era el teu destí salvar la vila!$h",
+        "cc_Begin": "Ei! He sentit que en Lewis t'ha ensenyat una mica el Centre Comunitari... Seria genial si el poguessis reformar. Abans era un lloc molt bonic!",
+        "Mon": "Ja t'he dit que vaig construir casa nostra des de zero?#$e#Ha sigut el millor de la meva carrera sense dubte.",
+        "Tue": "Ei, si necessites materials o esquemes la meva botiga és el lloc indicat!#$e#A més a més recolzes l'economia local.$h",
+        "Wed": "Ei, @.#$e#Estava pensant en uns projectes nous de fusteria.#$e#Ja vas bé a casa teva? Aguanta bé la teva casa?",
+        "Thu": "Sempre ets benvingut per visitar-nos, fins i tot si no compres res, saps.$h^Sempre ets benvinguda per visitar-nos, fins i tot si no compres res, saps.$h#$e#Pot ser una mica solitari aquí a les muntanyes.",
+        "Fri": "Ja has conegut el meu fill, en Sebastian, oi? Viu al soterrani.#$e#És una mica tímid, però segur que s'obre a tu si ets bo amb ell.^És una mica tímid, però segur que s'obre a tu si ets bona amb ell.",
+        "Fri_inlaw_Sebastian": "Trobo a faltar el meu Sebby... no l'entenien gaire però jo creia en ell.",
+        "Fri4": "#$1 RobinSeb#He trobat un cendrer a l'habitació d'en Sebastian i feia una olor una mica estranya. M'hauria de preocupar?#$e#De vegades em preocupa en Sebastian... no té gaires amics i no sembla preocupar-li gens ni mica el seu futur...#$e#Parlaria amb ell sobre el tema però mai s'obre a mi.",
+        "Fri4_inlaw_Sebastian": "En Sebastian m'ha dit que ha deixat de fumar! Estic molt orgullosa d'ell.",
+        "Sat": "Casa nostra és a un lloc molt bonic, no creus?#$e#M'encanta l'aire fresc de les muntanyes.",
+        "Sun": "Espero que en Demetrius no rebenti la casa amb un dels seus experiments.#$e#Ni tan sols sé en què està treballant. Crec que té a veure amb les plantes.",
+        "Sun2": "#$1 RobinDem#El meu marit gairebé crema la casa ahir a la nit amb el seu experiment. Una de les seves copes va rebentar i va llançar una bola de foc directament a una de les bigues! Gràcies a Yoba vaig fer servir laca ignífuga quan vaig construir aquesta casa.$u#$e#Ho sento si fa una olor estranya aquí, @. És el projecte científic del meu marit...",
+        "Sun6": "Hola @! És bo veure't.#$e#Ara ets un membre important de la comunitat, no creus?",
+        "event_wood1": "Genial, perquè aleshores aquest model t'hauria de ser bufar i fer ampolles!$h",
+        "event_wood2": "Bé, doncs tinc el model perfecte per a iniciar-te!",
+        "summer_Mon": "La fusta és una substància meravellosa... és versàtil, barata, forta i cada peça té el seu caràcter únic!",
+        "summer_Tue": "Si necessites millorar qualsevol edifici de la teva granja, demana-m'ho!#$e#M'hauràs de proporcionar prou fusta i pedra pel projecte. I també costa diners.#$e#Però segur que t'agradaran els resultats!$h",
+        "summer_Fri": "Estem bastant aïllats de la resta del món aquí a Stardew Valley.#$e#Té els seus avantatges i els seus inconvenients.",
+        "fall_Mon": "#$1 RobinMaru#A la Maru li agraden les joies. Les fa servir als seus aparells.#$e#I com us porteu tu i la Maru?",
+        "fall_Thu": "Sempre ets benvingut per a visitar-nos, fins i tot si no véns a millorar cap edifici!$h^Sempre ets benvinguda per a visitar-nos, fins i tot si no véns a millorar cap edifici!$h#$e#Pot ser una mica solitari viure aquí a les muntanyes.",
+        "fall_Fri": "Has conegut l'home salvatge que viu darrere de casa nostra?$s#$e#Suposo que no em molesta gaire, mentre no ens molesti clar.",
+        "winter_Mon": "Ei, és el moment perfecte de l'any per a acumular fusta.#$e#Potser pot recol·lectar-ne prou per a millorar-te la casa!",
+        "winter_Fri": "Els meus pares es van quedar perplexos quan els hi vaig dir que volia ser fustera.#$e#Eren bastant tradicionals.",
+        "winter_Fri_inlaw_Sebastian": "Crec que la vida a la granja és molt saludable pel meu Sebby.",
+        "winter_Sat": "Casa nostra és a un lloc molt bonic, no creus?#$e#Tot sembla quiet després d'una nevada."
+    }
+}

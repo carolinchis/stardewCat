@@ -1,0 +1,46 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Bon dia xaval! Soc en Gus, cuiner i propietari de la taverna.#$e#Pots venir cada cop que necissitis quelcom per halar. També tinc cafè i cervesa ben fresca per tothom que en necessiti.$h",
+        "accept_865": "*esnif* *esnif* ... Aquesta olor tan forta!#$b#*glop* *glop* ... Aquest sabor tan picant! Aquesta textura que recorda a la sorra!#$b#Això només pot ser salsa de tomàquet gurmet! Te la canviaré per alguna cosa.",
+        "Resort_Entering": "Ei, @! M'alegro de veure't per aquí. Estaré servint a tots aquí darrere la barra.",
+        "Resort_Leaving": "Ens veiem a casa, @.",
+        "Resort": "Em trobaràs al bar si necessites alguna cosa per refrescar-te.",
+        "IslandSouth_14_21": "Ei, vols alguna beguda? Tinc uns refrescs especials fets amb ingredients locals de l'illa.$h",
+        "willyCrabs": "Em sembla que mai havia preparat uns pastissos de cranc tan bons...",
+        "Mon": "Ahà, sé un fotimer de coses sobre els veïns del poble.#$e#És un dels beneficis que té ser cambrer.$h#$e#Encara que de vegades potser sento masses coses...",
+        "pamHouseUpgrade": "Ei. He sentit el que has fet per a la Pam. Quin acte més generós per part teva!$h#$e#Malauradament, no crec que així faci que redueixi la quantitat pel que fa al tema dels 'piscolabis'...",
+        "pamHouseUpgradeAnonymous": "He vist a la Pam fa una estona... I somreia d'orella a orella! M'ha dit que algú li havia comprat una casa nova!#$e#No sé qui ha estat, però es mereix el millor que li pugui passar!$h",
+        "Saloon": "Bon vespre. Què vols prendre?",
+        "Saloon4": "Bon vespre. Fes com si fossis a casa teva.",
+        "SeedShop_Entry": "Bon dia, Pierre!/Aviam, necessito.../Ah, fa bona pinta això!/Avui faré la meva salsa especial!/Pierre! Què tens de fresc?/Pierre! Què tens per mi?",
+        "Saloon8": "Ep, com va @. M'alegro de veure't! Aquí sempre hi haurà un lloc per tu.",
+        "Saloon_Tue": "Hola! Relaxa't i gaudeix.",
+        "Saloon_Thu": "Ep, fas cara de necessitar un refresc.",
+        "Saloon_Fri": "Aquesta nit s'han fet bastants calés. Estic content.",
+        "Tue": "Cada setmana venc plats diferents, o sigui que assegura't de venir a fer un cop d'ull de tant en tant!#$e#Potser podràs tastar quelcom espectacular.$h#$e#Ah, ets intolerant a alguna cosa?$s#$e#Entesos, a reveure.",
+        "Wed": "L'Emily treballa aquí d'un bon temps ençà. No sé pas què faria sense ella!#$e#Odiaria haver de netejar tot aquest lloc jo sol.$s",
+        "Thu": "La Pam i en Clint venen aquí pràcticament totes les nits.#$e#Probablement hauria de plegar si deixessin de vindre.$h#$e#O sigui que ni se t'acudeixi espantar-me'ls!",
+        "Thu6": "En Clint ve cada nit i s'asseu sempre a la mateixa taula.#$e#De vegades es mira a l'Emily amb una mirada nerviosa. Hmmm.#$e#Potser per així ve tant sovint. Però bé, per a mi millor, això guanyo més calés.",
+        "Thu8": "La Pam ve cada nit i sempre acaba bevent força cervesa de més.#$e#Ah però bé, no hauria de jutjar d'aquesta manera als meus clients.",
+        "Fri": "Bon dia, @. Si mai estàs assedegat, la taverna és a on has d'anar.",
+        "Fri4": "No bec gaire sovint. Tinc el bar per sobreviure, no tinc cap mena d'interés especial en el tema.#$e#Tot i que de tant en tant m'agrada prendre un vi anyenc dels de Stardew Valley.",
+        "Sat": "Diries que ets un bon cuiner, @?#$e#Si tens una cuina i receptes, pots preparar menjar d'allò més útil.#$e#El menjar casolà sol ser un bon regal, també.",
+        "Sun": "El negoci s'ha seguit endavant gràcies als meus clients regulars."
+    }
+}

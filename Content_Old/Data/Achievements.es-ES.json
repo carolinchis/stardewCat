@@ -1,0 +1,54 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "0": "Novell (15 mil)^Guanya 15.000g^true^-1^18",
+        "1": "Vaquer (50 mil)^Guanya 50.000g^true^0^21",
+        "2": "Mestre de la granja (250 mil)^Guanya 250.000g^true^1^20",
+        "3": "Milionari (1 milió)^Guanya 1.000.000g^true^2^1",
+        "4": "Llegenda (10 milions)^Guanya 10.000.000g^false^-1^3",
+        "5": "Col·lecció Complerta^Completa la col·lecció del museu.^true^28^0",
+        "6": "Un nou amic^Assoleix un nivell d'amistat de 5 cors amb algú.^true^-1^14",
+        "7": "Millors amics^Assoleix un nivell d'amistat de 10 cors amb algú.^true^6^31",
+        "9": "Amor agricultor^Assoleix un nivell d'amistat de 10 cors amb 8 persones.^true^7^32",
+        "11": "Grupet^Assoleix un nivell d'amistat de 5 cors amb 4 persones.^true^6^26",
+        "12": "Xarxa social^Assoleix un nivell d'amistat de 5 cors amb 10 persones.^true^11^25",
+        "13": "Popular^Assoleix un nivell d'amistat de 5 cors amb 20 persones.^true^12^11",
+        "15": "Cuina amateur^Cuina 10 receptes diferents.^true^18^12",
+        "16": "Xef subaltern^Cuina 25 receptes diferents.^true^15^7",
+        "17": "Xef gourmet^Cuina totes les receptes.^true^16^35",
+        "18": "Escalant^Millora la teva casa.^true^-1^13",
+        "19": "Vivint en gran^Millora la teva casa a la mida màxima.^true^18^15",
+        "20": "Bricolatge^Elabora 15 objectes diferents.^true^-1^29",
+        "21": "Artesania^Elabora 30 objectes diferents.^true^20^16",
+        "22": "Mestria Artesanal^Elabora tots els objectes.^true^21^23",
+        "24": "Caça-peixos^Pesca 10 peixos diferents.^true^-1^28",
+        "25": "Vell mariner^Pesca 24 peixos diferents.^true^24^5",
+        "26": "Mestre pescaire^Pesca tots els peixos.^true^25^24",
+        "27": "Cacera aquàtica^Pesca 100 peixos.^true^64^30",
+        "28": "Caça-tresors^Dóna 40 objectes diferents al museu.^true^-1^6",
+        "29": "Pencaire^Finalitza 10 peticions d'ajuda.^true^-1^22",
+        "30": "Una gran ajuda^Finalitza 40 peticions d'ajuda.^true^29^10",
+        "31": "Policultiu^Envia 15 exemplars de cada planta conreable.^true^-1^34",
+        "32": "Monocultiu^Envia 300 exemplars d'una sola planta conreable.^true^-1^33",
+        "34": "Enviament complert^Envia un exemplar de tots els objectes.^true^-1^9"
+    }
+}

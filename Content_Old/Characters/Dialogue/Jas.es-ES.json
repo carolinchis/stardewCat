@@ -1,0 +1,44 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "...$u#$b#Hola...$u",
+        "Resort_Entering": "Veig un cranc!",
+        "Resort_Leaving": "M'ha entrat sorra a les sabates...$s",
+        "Resort_Shore": "Estic recollint cloïsses... Vull fer-me un collaret!",
+        "Resort": "La tieta Marnie m'ha dit que vagi compte de no cremar-me... Però quan camino de pressa fa fresqueta, o sigui que estaré bé.$h",
+        "reject_869": "Ecs, quin fàstic!$s",
+        "Mon": "Oh...Que busques a la meva tieta?$u",
+        "Mon4": "Bon dia, Sr. @.^Bon dia, Sra. @.#$e#M'agrada viure a una granja.$h",
+        "Tue": "Què? *riu*$h#$e#...Hola.",
+        "Tue6": "Pots jugar amb les meves nines si vols. Quan acabis assegura't de pentinar-les.",
+        "Wed": "...$u",
+        "Wed2": "...Ei.$u",
+        "Wed4": "La tieta Marnie no em deixa sortir més tard de les 6pm. No és just!$s#$e#Ja no tinc por de la foscor!",
+        "Thu": "No haig de parlar amb desconeguts...$u",
+        "Thu2": "La senyora Penny m'està ensenyant a escriure en cursiva.$h#$e#Té una cal·ligrafia molt bonica.",
+        "Fri": "... No et conec.$u",
+        "Fri2": "Fa goig el meu llaçet?",
+        "Fri4": "M'agrada viure a la granja... el que més m'agrada són els gelats fresquets de la llet de les nostres vaques.",
+        "Sat": "Fas olor a herba.$u",
+        "Sat2": "De vegades agafo crancs de riu d'entre les roques. No li diguis a la tieta Marnie... però un cop en vaig donar un a una vaca.#$e#Li va encantar.",
+        "Sat8": "Ets molt amable amb mi, Sr. @$h^Ets molt amable amb mi, Sra @.$h#$e#Els adults solen ser dolents i avorrits, però tu ets millor que els alters.",
+        "Sun": "Um... vo... Vols alguna cosa?$u#$e#No hauria de parlar amb estranys.$u",
+        "Sun2": " En Shane ha passat per moltes coses i la tieta Marnie sempre està ocupada... O sigui que m'haig d'inventar jocs jo sola.#$e#Per sort tinc les meves joguines.$h",
+        "Sun10": "Sabies que en Shane és el meu padrí? Era un bon amic dels meus papes.$s#$e#...Ells van morir.*sanglot*$s"
+    }
+}

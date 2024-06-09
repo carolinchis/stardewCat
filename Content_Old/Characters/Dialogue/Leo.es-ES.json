@@ -1,0 +1,30 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Mon": "Ei... Tot bé?",
+        "Mon4": "He après molt de la meva família de lloros...#$b#Però segur que hi ha coses que encara no sé.$s",
+        "Tue": "Quan Sol s'enfada, s'està bé a la jungla. Sol no ens pot trobar sota les fulles. L'enganyem! Haha...$h",
+        "Wed": "...Em sap greu... Avui estic tímid.$3",
+        "Wed2": "Compte amb el volcà... als esperits no els hi agraden els desconeguts.",
+        "Thu": "Has trobat a la resta de la teva espècie?#$b#Jo no parlo molt amb ells. Em sento més segur amb els de la meva espècie...$3",
+        "Fri": "Una vegada... Estava a la cima del volcà durant la nit i vaig veure llums molt, molt lluny.#$b#Em pregunto si hi haurà més famílies d'ocells allà fora?$3",
+        "Fri3": "Em pregunto si puc veure casa teva des de la cima del volcà.",
+        "Sat": "...Avui estic trist.$s#$e#Segueix amb el que estaves fent... gaudeix. Deixa'm estar trist.$s",
+        "Sun": "Quan plou, ocells estranys ens visiten.#$b#Intento parlar amb ells... però se'n van volant.$s#$b#Suposo que no volen ser els meus amics...$s"
+    }
+}

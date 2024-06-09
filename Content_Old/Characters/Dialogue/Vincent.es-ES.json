@@ -1,0 +1,39 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Oh, un estrany! Em dic Vincent.#$b#La mama diu que no parli amb estranys... però no sembles dolent.^La mama diu que no parli amb estranys... però no sembles dolenta.",
+        "Resort_Entering": "Ha estat molt divertit! Vull ser capità de vaixell algun dia!",
+        "Resort_Leaving": "Vull tornar aviat!",
+        "Resort_Shore": "Vull veure un tauró!$h",
+        "Resort": "Si mires ben de prop, pots veure petits insectes saltant per la sorra.$h",
+        "reject_869": "Oooh! Quin gran descobriment!#$b#Però la mama no em deixaria quedar-me'l...$s",
+        "Mon": "Vull ser com el meu germà quan sigui gran!$h#$e#D'acord! Adéu!",
+        "Mon4": "$d kent#M'agrada que hagi tornat el pare... però és diferent de com el recordava...$s|El pare no està per aquí gaire sovint... vull jugar amb ell.$s",
+        "Tue": "*sospir*... La mama no em deixa menjar més llaminadures per avui.$s",
+        "Tue6": "Pots guardar-me un secret, senyor?^Pots guardar-me un secret, senyoreta?$u#$b#Vull casar-me amb la senyoreta Penny quan sigui gran.#$e#No li diguis, d'acord?$u",
+        "Wed": "Vull caçar insectes però la mama s'enfada quan m'embruto.$u#$b#És una decisió difícil.",
+        "Thu": "Tinc gana... on és la mama?$s",
+        "Thu2": "No ets tan avorrit com la resta d'adults!",
+        "Fri": "#$c .3#Ecs, avui també mengem remolatxa...$s#$e#Oh no... la mama està fent llenties per sopar.$s",
+        "Sat_1": "El pare tornarà aviat!#$b#Espero que em porti joguines.$u",
+        "Sat": "La senyoreta Penny em fa llegir un llibre nou cada setmana.$s#$b#Almenys em deixa escollir-los de tant en tant!",
+        "Sat8": "$d kent#El pare està estrany des que va tornar. Què li deu haver passat?$s#$b#Ja no juga amb mi.$s|Em pregunto si el pare tornarà mai a casa...$s",
+        "Sun": "Hola, senyor!^Hola, senyoreta.",
+        "Sun10": "Hola oncle @!^Hola tieta @!#$e#No li diguis a la mare... però ets el millor adult de la vila.$h"
+    }
+}

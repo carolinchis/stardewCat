@@ -1,0 +1,36 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Ei hola! És bo veure joves venint a la vall. No és gaire comú.",
+        "accept_869": "Ah... És l'esquer perfecte per un peix gat que fa temps que vull pescar!#$b#Té, te'l canvio per això. No estic segur de què és, però va aparèixer a la platja fa molt de temps.#$b#Alguna cosa em diu que a tu et farà més servei que a mi, vailet.^Alguna cosa em diu que a tu et farà més servei que a mi, vaileta.",
+        "FullCrabPond": "*esnif*... Ah... Aquesta olor m'és familiar. Estàs criant crancs, oi?#$b#Ets un noiet amb el mateix esperit que jo, @. Hah!$h^Ets una noieta amb el mateix esperit que jo, @. Hah!$h#$b#Té, queda't això. Ho he trobat a la platja... L'he guardat per una ocasió especial. No tots els dies coneixes un altre entusiasta dels crancs! [797]",
+        "MovieInvitation": "Ah... una pel·lícula. Molt amable de part teva, noi.^Ah... una pel·lícula. Molt amable de part teva, noia.#$b#M'acabo aquesta pipa i vaig cap allà.",
+        "Mon": "Ei, fill.^Ei filla.#$b#Avui fa bon temps per pescar, eh?",
+        "Mon4": "Has tingut sort a les aigues locals? Pots convertir-te en un bon pescador si t'ho proposes.^Has tingut sort a les aigues locals? Pots convertir-te en una bona pescadora si t'ho proposes.",
+        "Tue": "Un bon pescador té respecte per les aigues... no ho oblidis.",
+        "Tue6": "El meu pare era pescador, saps. Vaig crèixer navegant entre les illes falguera, vivint de pesca en pesca.#$e#La vida del pescador és dura però hi ha una cosa que et fa seguir endavant.",
+        "Wed": "Alguns peixos van i vénen amb les estacions. D'altres surten durant la nit o quan plou.",
+        "Thu": "*murmur* *murmur* ...Eh? Et diria què estic pensant, però és secret de pescador.",
+        "Thu2": "Hi ha rumors de peixos molt estranys en aquestes aigues... però només un expert podria tenir alguna oportunitat de pescar-los.#$e#Necessitaràs el millor esquer si vols que un d'aquests piqui l'ham.",
+        "Fri": "Si vols que els peixos piquin més sovint assegura't de posar esquer a l'ham.",
+        "Sat": "Si la pesca local s'animés una mica, potser podria expandir les existències de la botiga.",
+        "Sat8": "Com et va la vida del pescador?#$e#Intento pescar sovint però no és fàcil quan has de portar una botiga.",
+        "Sun": "Si compres una canya de pescar de qualitat podràs fer servir esquer i aparells.#$b#L'esquer fa que els peixos piquin més ràpid. Els aparells t'ajudaràn a pescar-los.#$e#Hi ha tota mena d'aparells, amb diferents especialitats. Són una mica fràgils, no et sorprenguis gaire si se't trenquen.",
+        "Sun10": "Ei, si és el meu capità, @!$h^Ei, si és la meva capitana, @!#$e#Et faria descompte amb l'esquer si m'ho pogués permetre.$s"
+    }
+}

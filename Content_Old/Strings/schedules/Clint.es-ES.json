@@ -1,0 +1,24 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_16.002": "Què em sonen els pulmons, doctor? De vegades fan un so de sotragueig quan exhalo.",
+        "winter_15.000": "Tinc una visita pel metge demà... Potser l'espectacle de les sirenes em tranquil·litzarà? Però potser les molesto mirant-les... *glups*",
+        "winter_16.001": "Vaig a veure el doctor pels meus pulmons... Respirar tanta pols de carbó no pot ser bo.",
+        "winter_16.000": "Tinc una visita pel metge avui, o sigui que si vols comprar alguna cosa, afanya't."
+    }
+}

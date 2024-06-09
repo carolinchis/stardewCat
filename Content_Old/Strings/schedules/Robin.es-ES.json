@@ -1,0 +1,24 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "summer_18.001": "No m'ha passat res de dolent, doctor. Em sento tan sana com sempre.",
+        "summer_18.000": "Que fa una persona jove i saludable com tu aquí?",
+        "Tue.000": "Ens reunim cada setmana per animar-nos a mantenir-nos saludables.",
+        "winter_16.000": "El que més m'agrada és veure els vaixells. El so de la fusta cruixint és estranyament reconfortant."
+    }
+}

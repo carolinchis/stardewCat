@@ -1,0 +1,26 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Thu.000": "Aquest lloc em porta molts records. Moltes gràcies per restaurar-lo.$h",
+        "2.001": "Ai caram, que tens una emergència? Per què has vingut?$s",
+        "winter_17.000": "Aquesta és una de les tradicions més recents de Vila Pelicà... però ens hem acostumat ràpidament. Oi George?",
+        "23.000": "Au va amor... És important que el Doctor Harvey t'examini com cal. És un bon jovenet! Comporta't, fes-ho per mi, va.",
+        "23.001": "Podries comprovar-li els pulmons? Ha panteixat una mica aquests dies.",
+        "2.000": "Quan arribes a la meva edat has d'anar a visitar el metge més sovint."
+    }
+}

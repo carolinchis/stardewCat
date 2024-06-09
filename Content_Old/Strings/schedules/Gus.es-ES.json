@@ -1,0 +1,24 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "fall_4.000": "Anar al metge em posa nerviós... I si ja et queden pocs anys? No estic en pau amb el món encara!",
+        "fall_4.001": "És el fetge, oi Doctor? Ja t'ho puc veure a la cara. *Aix*... He de prendre menys d'aquell deliciós vi de Stardew Valley.$s",
+        "Mon.000": "Estic agafant uns quants subministraments pel bar. En Pierre té les coses de bona qualitat.$h",
+        "Sun.000": "Ei @. Perdona'm... el bar romandrà tancat fins que s'acabi el joc."
+    }
+}

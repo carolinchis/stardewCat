@@ -1,0 +1,35 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "UnderConstruction": "En construcció.",
+        "DismountBeforeEntering": "Desmunta't abans d'entrar",
+        "PiecesOfHay": "Quantitat de Fenc: {0}/{1}",
+        "AddedHay": "Afegit {0} trossos de fenc a la sitja.",
+        "MillFull": "No hi ha espai",
+        "CantMill": "No es pot moldre",
+        "NeedSilo": "Requereix Una Sitja",
+        "CantEnter": "No pots entrar ara mateix",
+        "WrongFishType": "El teu {0} no vol viure a l'estany  {1}.",
+        "WrongFishTypeCoral": "{0} només es pot deixar a un estany {0}.",
+        "CantPutInPonds": "El {0} no seria feliç aquí.",
+        "NoFish": "Pots deixar peixos en aquest estany.",
+        "PondFull": "Aquest estany és ple.",
+        "Paint_Region_Roof": "Teulada",
+        "Paint_Region_Building": "Teulada"
+    }
+}

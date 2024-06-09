@@ -1,0 +1,50 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Er... hola. Sóc en Clint.#$e#Sóc el ferrer de la vila. Si mai has de millorar les teves eines, sóc la persona indicada.",
+        "Resort_Entering": "Avui em posaré el meu banyador especial vermell. Se suposa que crida molt l'atenció.",
+        "Resort_Leaving": "Bé, no ha anat com m'ho imaginava...",
+        "Resort_Shore": "Oh no... M'he oblidat de tallar-me les ungles dels peus.$s",
+        "Resort_Shore_2": "Pensava que treballar a la forja m'hauria preparat per aquesta calor, però estic suant per llocs on no sabia que es podia suar.$s#$e#Tant de bo ningú se n'adoni...#$e#%El cos d'en Clint brilla...",
+        "Resort_Chair": "Ow... se m'ha cremat tot el tors.$s",
+        "Resort_Bar": "Tinc gana...$s",
+        "Resort": "*sospir*... Estem tots a la platja i, tot i això, segueixo sentint-me tan sol...$s",
+        "reject_868": "Hmm... És una pedra interessant, no s'assembla a res que hagi vist mai abans.#$b#Tot i això, no sabria què fer amb ella. Estic acostumat a coses més bàsiques com el ferro o el coure.",
+        "cc_Minecart": "D'alguna manera el sistema de carretons ha començat a funcionar de nou. És bastant convenient per anar i tornar a les mines.#$b#Però no t'hi acostumis... si ha tornat a funcionar tan de sobte, pot deixar de funcionar igual de ràpid...",
+        "Mon": "Sí. Sóc un ferrer.#$e#El meu pare també era un ferrer.#$e#I el meu àvi també era un ferrer.$u#$q 9/9 Mon_old#Segur que no endevines el que era el meu besavi...#$r 9 30 Mon_9#Un ferrer.#$r 9 50 Mon_clown#Un pallasso.#$r 9 -50 Mon_rude#Un imbècil sarcàstic.",
+        "Mon_old": "I sí, el meu besavi també era un ferrer.",
+        "Mon_9": "Com ho has sabut?$u",
+        "Mon_clown": "Hahahaha. Bona.$h",
+        "Mon_rude": "Caram. Això ha estat cruel. Només volia ser divertit i t'ho has pres a la valenta.",
+        "Mon4": "Alegra't de ser un pagès, @. És molt millor treballar a l'aire lliure que no pas al costat d'un forn tot el dia^Alegra't de ser una pagesa, @. És molt millor treballar a l'aire lliure que no pas al costat d'un forn tot el dia#$e#Només sóc un ferrer perquè el meu pare m'hi va empènyer.",
+        "Tue": "Si vols que et millori les eines m'hauràs de portar el mineral adient.#$e#I també m'hauràs de pagar, és clar.",
+        "Wed": "Ei. Què necessites?",
+        "Wed6": "Oh, hola @. Perdona'm si estic una mica brut. Porto treballant al forn tot el dia.$h#$e#I bé, necessites alguna cosa o vens de visita?",
+        "Thu": "El negoci s'ha alentit darrerament.#$e#Hauries de millorar les teves eines. Els diners m'anirien prou bé.",
+        "Fri": "A mi el temps que faci no m'importa gaire. Normalment em quedo dins la meva botiga durant tot l'any.#$e#Una mica depriment, eh?",
+        "Sat": "De vegades em pregunto com és que he acabat a aquesta vila.$u",
+        "Sat6": "Collons, sóc massa gran per a fer res emocionant. L'única cosa que m'espera són anys de pencar a la botiga suant tot el dia al costat del forn.",
+        "Sun": "No tens feina a fer?",
+        "Sun4": "I com van les teves eines?",
+        "event_advice1": "D'acord... ho tindré en compte.",
+        "event_advice2": "Aquest és el problema... Ja actuo natural... però no he tingut mai cap èxit.$s",
+        "summer_Mon4": "Alegra't de ser un pagès, @. És molt millor treballar a l'aire lliure que no pas al costat d'un forn tot el dia^Alegra't de ser una pagesa, @. És molt millor treballar a l'aire lliure que no pas al costat d'un forn tot el dia#$e#Només sóc un ferrer perquè el meu pare m'hi va empènyer.",
+        "summer_Wed6": "Oh, hola @! Perdona'm si estic una mica brut. Porto treballant al forn tot el dia.$h#$e#I bé, necessites alguna cosa o vens de visita?",
+        "summer_Thu": "El negoci s'ha alentit darrerament.#$e#Hauries de millorar les teves eines. Els diners m'anirien prou bé."
+    }
+}

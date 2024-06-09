@@ -1,0 +1,41 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "abigail_videogames": "Ughh... Encara no he pogut superar el primer nivell de 'La llegenda del Rei del Prat'!$u",
+        "haley_photo": "La %Haley està massa centrada en la càmera per a notar la teva presència.",
+        "harvey_radio": "En %Harvey sembla ocupat ara.",
+        "harvey_examine_left": "Molt bé, no et moguis... agafa aire, si us plau.$u",
+        "alex_lift_weights": "Unghh... No puc parlar.",
+        "robin_dance": "Na %Robin està ocupada.",
+        "demetrius_dance": "En %Demetrius està ocupat.",
+        "demetrius_read": "Estem aïllats de la resta del món aquí a Stardew Valley. Potser això és bo.",
+        "emily_exercise": "Fer exercici pot ser divertit!",
+        "robin_exercise": "Tinc els braços forts... *puf*... però em cal enfortir les cames... *ahh*",
+        "caroline_exercise": "No miris! Estic tota vermella i suada.$s",
+        "shane_work": "En %Shane està centrat en la feina. No sembla que li interessi parlar amb ningú.",
+        "marnie_exercise": "La %Marnie et somriu enmig d'un fumet de suor.",
+        "jodi_exercise": "Ungh... Inspira.... Ungh.... Expira.$4",
+        "vincent_read_right": "La senyoreta Penny diu que he de llegir aquest llibre abans de jugar..$s",
+        "penny_wave_left": "Aquesta ciutat és segura, però acompanyo els nens a casa igualment.",
+        "sam_guitar": "En %Sam està ocupat practicant amb la guitarra.",
+        "sam_gameboy": "Un segon... he de passar-me aquest nivell.$7",
+        "sam_skateboarding": "En %Sam tracta de fer un 'kickflip'.",
+        "sam_pool": "$c .5#Hmm... potser si colpejo la bola blanca d'aquesta manera...$7#$e#*Aix*... no sóc gaire bo.$s",
+        "sam_work": "En %Sam està fent el seu torn... millor no molestar-lo."
+    }
+}

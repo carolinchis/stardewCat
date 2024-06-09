@@ -1,0 +1,27 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Fri.000": "Definitivament tot això es pot incorporar a una dieta sana.",
+        "marriageJob.000": "Hola amor. Que fas a la clínica?#$e#Ah, has vingut per veure'm. Està bé.$h",
+        "Fri.001": "Estic desant la compra.",
+        "marriage_Mon.001": "El so de l'aigua fluint em relaxa molt.",
+        "marriage_Mon.000": "Hola! Estic comprant un parell de coses bàsiques, així puc continuar cuinant sa.",
+        "Sat.000": "Estic desant la compra.",
+        "winter_15.000": "L'hivern pot ser una estació trista, però esdeveniments com aquest la tornen més alegre!"
+    }
+}

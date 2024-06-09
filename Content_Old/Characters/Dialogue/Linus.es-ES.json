@@ -1,0 +1,58 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": false
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Introduction": "Un estrany?... Hola.#$e#No et preocupis per mi. Jo visc aquí pel meu compte.",
+        "reject_869": "Què tens per aquí? Sembla que podria fer un bon esquer amb això.$h",
+        "cc_Boulder": "La meva estimada amiga, la roca brillant, ja no hi és. Potser no sembla un esdeveniment gaire important però per a mi és un canvi molt gran.#$b#Però m'alegra que aquella roca tingui l'oportunitat de veure més món.$h",
+        "MovieInvitation": "Oh... jo? Normalment no hi aniria però... d'acord. Ets molt amable per pensar en mi.#$b#Aniré cap allà d'aquí una estona.",
+        "Mon": "L'aire lliure de la terra és l'única cosa que m'importa.#$e#Visc aquí fora per decisió pròpia.",
+        "Tue": "...Has vingut a riure't de mi?#$e#Només estic aquí passant l'estona.",
+        "Wed": "No et conec prou bé per a confiar en tu. Em sap greu.",
+        "Thu": "...Hmm? Vols alguna cosa de mi?",
+        "Fri": "Si us plau no destrueixis la meva tenda.#$e#Ja ha passat altres cops.$s",
+        "Sat": "Sóc feliç pel meu compte, saps.#$e#No necessito cap nou amic.",
+        "Sun4": "M'agradaria que la gent de la vila m'acceptessin per com sóc.$s#$b#M'agrada viure així, a l'aire lliure. Això és el que no entenen.",
+        "Tue4": "Pots aprendre a sobreviure a la naturalesa. Jo ho he fet.#$e#Crec que tots tenim un desig ocult de tornar a la natura. Només fa una mica de por fer el pas.",
+        "Wed6": "Passo bona part del meu temps pensant.#$e#Si pots arribar a entendre els motius darrere els teus pensaments pots arribar a un nou estat d'ésser.",
+        "Wed2": "He de ser prudent amb els estranys. A la majoria de persones no els hi agrada un 'home salvatge'.",
+        "Thu4": "La gent d'aquí semblen bones persones, però m'eviten.#$e#La gent té por d'allò desconegut.$u",
+        "Fri4": "Pots aprendre un munt de coses dels arbres.#$b#Passa un temps amb ells i potser t'expliquen els seus secrets.#$e#Vés amb pau, jovenet.^Vés amb pau, joveneta.",
+        "Sat4": "Tinc tot el que necessito per sobreviure i més. La natura toca una melodia meravellosa si aprens a escoltar-la.#$e#També passo molt de temps llegint. Un dels motius pels quals vaig decidir quedar-me a la vall és per la llibreria tan bona que hi ha.",
+        "Sun": "#$1 linusVandal#Algú estava llançant pedres a la meva tenda ahir a la nit... vaig haver d'esperar una estona.$s$k#$e#No m'agrada quedar-me en un sol lloc durant molt de temps. Hi ha un munt de coses a explorar en aquest món.",
+        "summer_Mon4": "Durant tots aquests anys he descobert un munt de secrets de la vida.#$e#Els hauràs de descobrir pel teu compte.",
+        "summer_Mon": "#$1 LinusHeron#He vist un martinet vagant amb gràcia enmig de la boira aquest matí. Aquests són els tresors de la vida tranquil·la.$k#$e#És molt fàcil quedar-se atrapat en el xivarri de la vida moderna. Els teus millors anys de la teva vida passen en un tancar i obrir d'ulls. Per això és important aprendre a afluixar el ritme. ",
+        "summer_Tue4": "Com et trobes, amic meu?^Com et trobes, amiga meva?",
+        "summer_Wed6": "Ah... l'estiu. El sol càlid em serveix per escalfar les llaunes.#$b#Després a la nit tinc un menjar calent esperant-me.",
+        "summer_Thu4": "Tinc els meus motius per viure sol d'aquesta manera.#$e#Algunes coses és millor no dir-les...#$e#Hauria de fer una mica de farratge.",
+        "summer_Fri4": "Quan pesques un peix, pren un moment per agrair el seu sacrifici.#$b#Fins i tot si no creus que els peixos tinguin esperit, és un bon exercici mental. Hem de ser conscients del nostre efecte al medi ambient.",
+        "summer_Sat4": "Pots trobar truites irisades als rierols ara.",
+        "summer_Sun": "Aquesta època de l'any és molt més fàcil per a mi. No he de preocupar-me de mantenir-me calent.#$e#A més a més, creixen un munt de fruites salvatges per tot arreu.",
+        "fall_Mon": "He explorat molt les profunditats de les coves.#$e#Tenen alguns secrets molt ben amagats.#$e#Vés amb compte si t'hi endinses.",
+        "fall_Tue4": "#$1 LinusFall1#Algun pallasso va pintar la meva casa durant la nit... He trigat hores a netejar-ho aquest matí.$k#$e#He de començar a acumular fusta per l'hivern.#$e#Tu ja tens prou fusta per mantenir la teva casa calenta?",
+        "fall_Wed4": "No tinc gaires responsabilitats, o sigui que passo bona part del meu temps pensant.#$e#Has d'entendre els teus pensaments per poder controlar-los.",
+        "fall_Sun": "No m'agrada quedar-me a un lloc durant molt de temps.",
+        "fall_Sun6": "No hi ha res com un festí de bolets durant la tardor.$h",
+        "winter_Mon": "Pot arribar a fer molt de fred quan vius a una tenda.$s",
+        "winter_Tue4": "Gràcies per no evitar-me, @. Has de tenir molt de seny per poder superar els teus instints naturals.#$e#Sóc un ésser humà com tots els altres. Només tinc un estil de vida diferent.",
+        "winter_Wed4": "Segur que entens per què vaig amb compte amb els estranys.#$e#Però és millor deixar això en el passat, d'acord? Tu i jo ara som bons amics, crec.",
+        "winter_Thu4": "L'hivern és dur però encara pots pescar i recollir alguns fruits per sobreviure.#$e#Si tens cap bestiar, no hauries de deixar que passi temps a l'aire lliure en aquesta època.",
+        "winter_Fri4": "Els arbres van a dormir durant l'hivern. Fa que estar aquí es torni una mica més solitari.#$e#Però jo no els hi negaré la bellesa de dormir.$h",
+        "winter_Sat4": "Gràcies per venir. Aquest matí em sentia una mica sol.#$e#I bé, has descobert alguna cosa interessant a les mines?",
+        "winter_Sun": "Dormir a terra és bo per la meva esquena.#$e#És millor veure la part positiva de les coses.$h"
+    }
+}
